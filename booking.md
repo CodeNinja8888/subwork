@@ -30,3 +30,5 @@ Internet is currently 300mbit/100 with Ubiquidty WiFi6 coverage. We plan to make
 You can help us also water 30 plants we have in our space to keep solarpunk vibe!
 
 On your athletic days you can use shower we have at space.
+
+When you get bored, you can beat time under 20m at 5000m at water rower we have in space!
