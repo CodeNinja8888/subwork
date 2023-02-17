@@ -1,5 +1,5 @@
 # subwork
-web3 cowork in Julian Alps, Bled, Slovenia - subwork.x
+web3 cowork in Julian Alps, Bled, Slovenia - [SubWork.xyz](https://subwork.xyz)
 
 
 Visiting SubWork
