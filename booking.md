@@ -25,7 +25,7 @@ Two meeting rooms. Polkadot room has 8 seats, Kusama room 4-8 seats, silent corn
 
 We can add extra 8x120 tables to scale up for more seats and one more extra family table for 8 people comfortable.
 
-Internet is current 300mbit/100 and we are making upgrade to 1Gbit/100, plenty speed for syncing your Substrate node!
+Internet is currently 300mbit/100 with Ubiquidty WiFi6 coverage. We plan to make upgrade to 1Gbit/100, plenty speed for syncing your Substrate node and your sync calls with your team!
 
 You can help us also water 30 plants we have in our space to keep solarpunk vibe!
 
