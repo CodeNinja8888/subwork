@@ -9,16 +9,13 @@ To contribute to the code fork the repository, clone it by running `git clone` a
 
 ```
 pnpm install
-pnpm dev
+pnpm run docs:dev
 ```
 
 Checkout if your code builds:
 ```
-pnpm build
+pnpm run docs:build
 ```
-
-
-
 
 
 
