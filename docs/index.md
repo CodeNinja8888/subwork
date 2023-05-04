@@ -8,11 +8,14 @@ hero:
   tagline: My great project tagline
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Homepage
+      link: /home
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Book your stay
+      link: /booking
+    - theme: alt
+      text: Join our Hackathon
+      link: /polkadot-bled-hackathon
 
 features:
   - title: Feature A

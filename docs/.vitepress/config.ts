@@ -16,6 +16,7 @@ export default defineConfig({
         text: 'Web3 coworking in Slovenia',
         items: [
           { text: 'Home', link: '/home' },
+          { text: 'Bookings', link: '/booking' },
           { text: 'Polkadot Bled Hackathon', link: '/polkadot-bled-hackathon' },
           { text: 'Long Term Stay Hints', link: '/long-term-stay-hints' },
           { text: 'Archive', link: '/archive' },
