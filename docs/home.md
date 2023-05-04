@@ -134,23 +134,20 @@ We still need to tune place to be superior for workspace like
 
 *   our favourite spot for swimming sessions
 
-![image](/_next/image?url=https%3A%2F%2Fassets.super.so%2F1fa12bda-2e5c-4a7b-bc5f-94bd6c0f7232%2Fimages%2F2be50b00-c32b-459b-8303-d4fe8889449f%2FUntitled.jpeg&w=3840&q=80)
+![image](pics/bohinj1.avif)
 
-![image](/_next/image?url=https%3A%2F%2Fassets.super.so%2F1fa12bda-2e5c-4a7b-bc5f-94bd6c0f7232%2Fimages%2F8058f0e1-2810-498e-8b5c-fc78fa262f4a%2FUntitled.png&w=3840&q=80)
+![image](pics/bohinj2.avif)
 
-![image](/_next/image?url=https%3A%2F%2Fassets.super.so%2F1fa12bda-2e5c-4a7b-bc5f-94bd6c0f7232%2Fimages%2Fa9dbe6b4-a399-42f7-996e-c832d326c2bb%2FUntitled.jpeg&w=3840&q=80)
+![image](pics/bohinj3.avif)
 
 ### 🏔 Kranjska Gora
 
 *   Usually hiking base for people all year around
 
-![image](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+![image](pics/kranjska1.avif)
 
-![image](/_next/image?url=https%3A%2F%2Fassets.super.so%2F1fa12bda-2e5c-4a7b-bc5f-94bd6c0f7232%2Fimages%2Fd23a7827-49d0-46ba-bb2c-5c9e2b784cb7%2FUntitled.png&w=3840&q=80)
+![image](pics/kranjska2.avif)
 
-![image](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![image](/_next/image?url=https%3A%2F%2Fassets.super.so%2F1fa12bda-2e5c-4a7b-bc5f-94bd6c0f7232%2Fimages%2Ff9f2d46c-6f25-41f4-8ee2-9737111ac0bd%2FUntitled.png&w=3840&q=80)
 
 ### 🧐 Why did you choose Bled?
 
@@ -160,9 +157,7 @@ We still need to tune place to be superior for workspace like
 
 ### 🏋️ Are you athletic soul?
 
-![image](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![image](/_next/image?url=https%3A%2F%2Fassets.super.so%2F1fa12bda-2e5c-4a7b-bc5f-94bd6c0f7232%2Fimages%2Ffbc8310a-cf6a-4991-b9e0-d08cfc590abf%2FUntitled.png&w=3840&q=80)
+![image](pics/athletic1.avif)
 
 *   Prior moving to Bled was desire to find environment, where we can do sport and recreate our wellbeing in nature **in least artificial way whole year**
 *   What kind of sports you can do here? Seems there are few great options
@@ -188,19 +183,9 @@ We still need to tune place to be superior for workspace like
 *   December ‘22 — first web3 meetups _~_
 *   March-April ‘23 — potential Bled hackathon
 
-[
+[ 🪢 Polkadot-Bled-hackathon ](/polkadot-bled-hackathon)
 
-🪢
-
-Polkadot-Bled-hackathon
-
-
-
-](/polkadot-bled-hackathon)
-
-![image](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![image](/_next/image?url=https%3A%2F%2Fassets.super.so%2F1fa12bda-2e5c-4a7b-bc5f-94bd6c0f7232%2Fimages%2Ffc823682-0186-4d6a-8862-e392ee50df00%2FUntitled.png&w=3840&q=80)
+![image](pics/hacker_space1.avif)
 
 ### 🍻 Collaboration areas
 
@@ -229,106 +214,9 @@ We really care about your education about local place
 
 *   We can give you recommendation where to look for
 
-[
-
-🏕️
-
-Long-term stay hints
-
-
-
-](/long-term-stay-hints)
+[ 🏕️ Long-term stay hints ](/long-term-stay-hints)
 
 🚧  Work in Progress
 --------------------
 
-[
-
-🎬
-
-🗂 Archive
-
-
-This page demonstrates some of the built-in markdown extensions provided by VitePress.
-
-## Syntax Highlighting
-
-VitePress provides Syntax Highlighting powered by [Shiki](https://github.com/shikijs/shiki), with additional features like line-highlighting:
-
-**Input**
-
-````
-```js{4}
-export default {
-  data () {
-    return {
-      msg: 'Highlighted!'
-    }
-  }
-}
-```
-````
-
-**Output**
-
-```js{4}
-export default {
-  data () {
-    return {
-      msg: 'Highlighted!'
-    }
-  }
-}
-```
-
-## Custom Containers
-
-**Input**
-
-```md
-::: info
-This is an info box.
-:::
-
-::: tip
-This is a tip.
-:::
-
-::: warning
-This is a warning.
-:::
-
-::: danger
-This is a dangerous warning.
-:::
-
-::: details
-This is a details block.
-:::
-```
-
-**Output**
-
-::: info
-This is an info box.
-:::
-
-::: tip
-This is a tip.
-:::
-
-::: warning
-This is a warning.
-:::
-
-::: danger
-This is a dangerous warning.
-:::
-
-::: details
-This is a details block.
-:::
-
-## More
-
-Check out the documentation for the [full list of markdown extensions](https://vitepress.dev/guide/markdown).
+[ 🎬 🗂 Archive ](/docs/archive.md)
