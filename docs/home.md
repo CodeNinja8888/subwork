@@ -26,8 +26,6 @@ We will warmly welcome any web3 builders to hangout and share their insights in 
 
 ![](pics/location.avif)![image](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![image](/_next/image?url=https%3A%2F%2Fassets.super.so%2F1fa12bda-2e5c-4a7b-bc5f-94bd6c0f7232%2Fimages%2Ff04dfcbf-5d92-4c48-8d53-30b7767825b3%2FScreenshot_2022-12-31_at_14.37.29.png&w=1200&q=80)
-
 *   The location is at [Bled, in the north part of Slovenia](https://goo.gl/maps/KvDbeJwVGxQM5sBS9), south eastern Europe.
 *   📸 [How does Bled looks like?](https://www.google.com/search?q=bled+slovenia+beautiful+photos)
 

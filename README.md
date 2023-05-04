@@ -9,8 +9,18 @@ To contribute to the code fork the repository, clone it by running `git clone` a
 
 ```
 pnpm install
-pnpm run dev
+pnpm dev
 ```
+
+Checkout if your code builds:
+```
+pnpm build
+```
+
+
+
+
+
 
 Temporary deployment
 ---
