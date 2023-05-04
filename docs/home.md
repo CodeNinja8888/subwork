@@ -183,7 +183,7 @@ We still need to tune place to be superior for workspace like
 *   December ‘22 — first web3 meetups _~_
 *   March-April ‘23 — potential Bled hackathon
 
-[ 🪢 Polkadot-Bled-hackathon ](/polkadot-bled-hackathon)
+[ 🪢 Polkadot-Bled-hackathon ](/polkadot-bled-hackathon.md)
 
 ![image](pics/hacker_space1.avif)
 
@@ -214,9 +214,9 @@ We really care about your education about local place
 
 *   We can give you recommendation where to look for
 
-[ 🏕️ Long-term stay hints ](/long-term-stay-hints)
+[ 🏕️ Long-term stay hints ](/long-term-stay-hints.md)
 
 🚧  Work in Progress
 --------------------
 
-[ 🎬 🗂 Archive ](/docs/archive.md)
+[ 🎬 🗂 Archive ](/archive.md)
