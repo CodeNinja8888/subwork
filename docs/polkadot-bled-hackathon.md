@@ -1,6 +1,4 @@
-[ 🏞️ SubWork.xyz ](/)
-
-🪢
+# 🪢
 
 Polkadot-Bled-hackathon
 =======================
@@ -41,4 +39,4 @@ Early November
 
 Looking on this table to pick right date
 
-[https://docs.google.com/spreadsheets/d/1J8C3cLbruoKEPrvoO1ym4RGE2VX-WU4HyXsM7H1GqWM/edit#gid=0](https://docs.google.com/spreads
+[table link](https://docs.google.com/spreadsheets/d/1J8C3cLbruoKEPrvoO1ym4RGE2VX-WU4HyXsM7H1GqWM/edit#gid=0)
