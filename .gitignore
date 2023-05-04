@@ -1,2 +1,4 @@
 node_modules/
 docs/package-lock.json
+pnpm-lock.yaml
+.pnpm-debug.log
