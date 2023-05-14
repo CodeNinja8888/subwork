@@ -1,14 +1,15 @@
-## Where is SubWork located in Bled?
+## Where is SubWork located in Slovenia?
 
 📍 Where we are?
-----------------
+---
 
 ![location-of-subwork](pics/location.avif)![image](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
 *   The location is at [Bled, in the north part of Slovenia](https://goo.gl/maps/KvDbeJwVGxQM5sBS9), south eastern Europe.
 *   📸 [How does Bled looks like?](https://www.google.com/search?q=bled+slovenia+beautiful+photos)
 
-🚗  **Close proximity to**
+🚗  Close proximity to
+---
 
 *   🏞  [Lake Bled](https://en.wikipedia.org/wiki/Lake_Bled), where co-work is based
 *   🏞  [Lake Bohinj](https://en.wikipedia.org/wiki/Lake_Bohinj) — 20 min
@@ -19,6 +20,7 @@
 *   🌅  [Piran](https://en.wikipedia.org/wiki/Piran) - 🌊 🏖 sea side - 90 mins
 
 
+Location in Bled, Slovenia
 ---
 
 
