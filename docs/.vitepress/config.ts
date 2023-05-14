@@ -2,27 +2,30 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Subwork - web3 coworking in Slovenia",
+  title: "Subwork",
   description: "Minimum Viable Community in Julian Alps",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Main', link: '/' },
+      { text: 'Home', link: '/home' }
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Web3 coworking in Slovenia',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Home', link: '/home' },
+          { text: 'Bookings', link: '/booking' },
+          { text: 'Polkadot Bled Hackathon', link: '/polkadot-bled-hackathon' },
+          { text: 'Long Term Stay Hints', link: '/long-term-stay-hints' },
+          { text: 'Archive', link: '/archive' },
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/kodadot/subwork' }
     ]
   }
 })

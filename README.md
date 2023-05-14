@@ -1,6 +1,27 @@
 # subwork
 web3 cowork in Julian Alps, Bled, Slovenia - [SubWork.xyz](https://subwork.xyz)
 
+Getting started
+---
+If you want to contribute to this repository check out the issues or submit an issue.
+
+`package.json` is in docs, as multiple deployments might be integrated in the future
+
+To contribute to the code fork the repository, clone it by running `git clone` and run:
+
+```
+cd docs
+pnpm install
+pnpm run docs:dev
+```
+
+Checkout if your code builds:
+```
+pnpm run docs:build
+```
+
+
+
 Temporary deployment
 ---
 Till we migrate off Notion to Vitepress
