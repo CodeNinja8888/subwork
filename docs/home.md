@@ -36,28 +36,6 @@ We will warmly welcome any web3 builders to hangout and share their insights in 
 
 ![image](pics/coffee.avif)
 
-🧰 Amenities
-------------
-
-*   High speed optic Internet with wi-fi coverage by Ubiquiti
-*   Lot of green plants in space
-*   Collaboration areas
-*   Standing desk
-*   Meeting rooms
-
-*   Polkadot - 8 seats
-*   Kusama - 6 seats
-
-*   4K usb-c monitors for your comfort
-*   Podcasting studio
-
-*   [Two studio high-performance gamer microphones](https://hyperx.com/products/hyperx-quadcast-s-usb-microphone?variant=41031692058781)
-*   [Streamcam w/ 1080p AF](https://www.logitech.com/en-ch/products/webcams/streamcam.960-001281.html)
-*   Ring lights
-*   Green background (wip)
-
-*   Place for your meetup
-
 ![image](pics/nice_place.avif)
 
 ### 👔 Conference capacities
@@ -74,9 +52,9 @@ We will warmly welcome any web3 builders to hangout and share their insights in 
 ### 🧘 SubWork desires
 
 *   We could comfortable accommodate approximately 30 builders on daily basis
-*   Host local web3 meetups, technological and art events
-*   Help with bigger teams retreats.
-*   In space we plan to have 4 channels for making your calls
+- [Host local tech, crypto and ai meetups, technological and art events](./rent-subwork-venue-in-bled.md)
+- [We can help you with bigger teams retreats](./company-retreat.md)
+
 
 ### 📸  Look and feel
 

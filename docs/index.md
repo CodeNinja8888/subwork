@@ -14,11 +14,11 @@ hero:
       text: Membership
       link: /membership
     - theme: alt
-      text: Join our Hackathon
-      link: /polkadot-bled-hackathon
+      text: Join our community events
+      link: https://meetup.com/subwork/
     - theme: alt
       text: Amenities
-      link: /amentiies-in-coworking-space
+      link: /amenities-in-coworking-space
     - theme: alt
       text: Transporation
       link: /transportation-to-subwork-bled-slovenia
