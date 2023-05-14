@@ -1,0 +1,5 @@
+/* .vitepress/theme/custom.css */
+:root {
+  --vp-font-family-base: "Raleway-Light"; /* normal text font */
+  --vp-font-family-mono: "Times New Roman"; /* code font */
+}

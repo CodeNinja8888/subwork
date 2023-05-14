@@ -2,21 +2,32 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  lastUpdated: true,
   title: "Subwork",
   description: "Minimum Viable Community in Julian Alps",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    search: {
+      provider: 'local'
+    },
+    editLink: {
+      pattern: 'https://github.com/kodadot/subwork/edit/main/docs/:path'
+    },
+    footer: {
+      message: 'VitePress generated at SubWork',
+      copyright: 'Copyright © 2023-present SubWork membas'
+    },
     nav: [
       { text: 'SubWork', link: '/' },
       { text: 'coworking space', link: '/home' },
       { text: 'location', link: '/location-of-subwork' },
-      { text: 'telegram chat', link: 'https://t.me/+VoZsr7MEds84ZjQ0' },
+      { text: 'telegram', link: 'https://t.me/+VoZsr7MEds84ZjQ0' },
       { text: 'leave us review', link: 'https://g.page/r/CWs7EEKFN9-zEBE/review' }
     ],
 
     sidebar: [
       {
-        text: 'web3 coworking space in Slovenia',
+        text: 'web3 coworking space',
         items: [
           { text: 'contact', link: '/contact' },
           { text: 'why bled', link: '/why-did-we-choose-bled' },
@@ -29,7 +40,7 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'sport activities', link: '/sports-activities-around-bled' },
-          { text: 'kremsnita index', link: '/kremsnita-index'}
+          // { text: 'kremsnita index', link: '/kremsnita-index'}
         ]
       },
       {

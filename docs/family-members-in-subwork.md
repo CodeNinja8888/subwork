@@ -1,14 +1,65 @@
 # Family Members in SubWork
 
-Current coworkers are among top class web3 startups and AI experimentators, like
+Current coworkers are among top class web3 startups and AI experimentators
 
-- Currently we host developer from [HydraDX](https://hydradx.io/) and [Basilisk](https://bsx.fi/)
-- Founders of [KodaDot - NFT marketplace](https://kodadot.xyz)
+companies
+---
+- developer from [hydradx](https://hydradx.io/) and [basilisk](https://bsx.fi/)
+- founders of [kodaDot - most popular open source nft marketplace](https://kodadot.xyz)
   - [yangwao](https://twitter.com/yangwao)
   - [vikiival](https://twitter.com/vikiival)
-- [PoppyseedDev](https://twitter.com/poppyseeddev) doing her Rust courses and got accepted to Polkadot Blockchain Academy 
-- Various fund managers
-- Hotdesking clients among local family office.
-- Regional and neighbourhood corporates
+- [poppyseedDev](https://twitter.com/poppyseeddev) doing her Rust courses and got accepted to Polkadot Blockchain Academy 
+- various fund managers
+- hotdesking clients among local family office.
+- regional and neighbourhood corporate members
 
 
+<script setup>
+import { VPTeamMembers } from 'vitepress/theme'
+
+const members = [
+  {
+    avatar: 'https://www.github.com/yangwao.png',
+    name: 'matej yangwao',
+    title: 'co-founder KodaDot',
+    links: [
+      { icon: 'github', link: 'https://github.com/yangwao' },
+      { icon: 'twitter', link: 'https://twitter.com/yangwao' }
+    ]
+  },
+  {
+    avatar: 'https://www.github.com/vikiival.png',
+    name: 'viki val',
+    title: 'co-founder KodaDot',
+    links: [
+      { icon: 'github', link: 'https://github.com/vikiival' },
+      { icon: 'twitter', link: 'https://twitter.com/vikiival' }
+    ]
+  },
+  {
+    avatar: 'https://www.github.com/poppyseeddev.png',
+    name: 'aurora poppyseed',
+    title: 'founder rust courses & gpt projects',
+    links: [
+      { icon: 'github', link: 'https://github.com/poppyseeddev' },
+      { icon: 'twitter', link: 'https://twitter.com/poppyseeddev' }
+    ]
+  },
+  {
+    avatar: 'https://www.github.com/vgantchev.png',
+    name: 'valery',
+    title: 'founder & runtime at Basilisk & HydraDX',
+    links: [
+      { icon: 'github', link: 'https://github.com/vgantchev' },
+      { icon: 'twitter', link: 'https://twitter.com/cl0w5' }
+    ]
+  },
+]
+</script>
+
+brogrammers
+---
+
+say hello to our awesome coworkers and enjoy000rs of Bled
+
+<VPTeamMembers size="small" :members="members" />

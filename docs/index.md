@@ -5,12 +5,12 @@ layout: home
 hero:
   name: "Subwork - web3 coworking in Slovenia"
   text: "Minimum Viable Community in Julian Alps"
-  tagline: Crypto & AI hub in Slovenia in most beautiful nature of Europe
+  tagline: Crypto & AI hub in most beautiful nature of Slovenia, Europe
   actions:
-    - theme: brand
+    - theme: alt
       text: why?
       link: /home
-    - theme: alt
+    - theme: brand
       text: amenities
       link: /amenities-in-coworking-space
     - theme: alt

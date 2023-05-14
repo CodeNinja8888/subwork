@@ -25,7 +25,10 @@ premium objects in space
   - [Two studio high-performance gamer microphones](https://hyperx.com/products/hyperx-quadcast-s-usb-microphone?variant=41031692058781)
   - [Streamcam w/ 1080p AF](https://www.logitech.com/en-ch/products/webcams/streamcam.960-001281.html)
   - Ring lights
-  
+- shower
+  - Are you feeling sporty and want finish your morning workout in SubWork? We've got shower in space!
+  - Want some shower thoughts before entering into deep work focus window?
+
 services
 ---
 - package handling 
