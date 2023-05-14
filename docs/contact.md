@@ -11,7 +11,7 @@
 Location
 ---
 - [Directions to SubWork](https://goo.gl/maps/VHcaWbhwAV77KgTX9)
-- [Where is SubWork located?](./location.md)
+- [Where is SubWork located?](./location-of-subwork.md)
 
 
 Give us Review

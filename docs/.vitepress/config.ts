@@ -16,9 +16,9 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Web3 coworking in Slovenia',
+        text: 'Web3 coworking space in Slovenia',
         items: [
-          { text: 'Home', link: '/home' },
+          { text: 'Julian Alps', link: '/home' },
           { text: 'Contact', link: '/contact' },
           { text: 'Amenities', link: '/amenities-in-coworking-space' },
           { text: 'Sport Activities', link: '/sports-activities-around-bled' },
