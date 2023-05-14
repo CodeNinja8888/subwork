@@ -1,5 +1,16 @@
-/* .vitepress/theme/custom.css */
+@font-face {
+  font-family: 'Raleway';
+  src: local('Raleway'), url('./fonts/Raleway-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Raleway';
+  src: local('Raleway'), url('./fonts/Raleway-SemiBold.ttf') format('truetype');
+  font-weight: bold;
+}
+
 :root {
-  --vp-font-family-base: "Raleway-Light"; /* normal text font */
-  --vp-font-family-mono: "Times New Roman"; /* code font */
+  --vp-c-brand: #42ba96;
+  --vp-c-brand-light: #42ba96;
+  --vp-font-family-base: 'Raleway'
 }

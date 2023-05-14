@@ -35,7 +35,7 @@ Coming to Slovenia to enjoy your stay for sport activity, relax and you need pla
 - 24/7
 - 300€ / mo
 
-Meeting Rooms
+meeting Rooms
 ---
 ### polkadot
 
@@ -63,13 +63,13 @@ Meeting Rooms
 - Want to rent SubWork? Let us know! Price start at 300€/day. 
 - Are you NGO, non-profit or students organization? We can give you discount!
 
-Payment Options
+payment Options
 ---
 We accept payment by credit card in space, cryptocurrencies via partners and wire transfers. 
 However we love untracable cash, we don't hold it in space and we can't give you change.
 
 
-Invoicing
+invoicing
 ---
 
 In terms of invoicing we can issue you invoice on our Slovenian company and you can put it as expense in your accouting. This is only available for flex desk, fix desk and meeting rooms from up 3h.

@@ -62,4 +62,4 @@ brogrammers
 
 say hello to our awesome coworkers and enjoy000rs of Bled
 
-<VPTeamMembers size="small" :members="members" />
+<VPTeamMembers size="medium" :members="members" />

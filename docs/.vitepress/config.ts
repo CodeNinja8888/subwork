@@ -2,6 +2,24 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  // transformHead({ assets }) {
+  //   // adjust the regex accordingly to match your font
+  //   const myFontFile = assets.find(file => /Raleway-Light\.\w+\.ttf/)
+  //   if (myFontFile) {
+  //     return [
+  //       [
+  //         'link',
+  //         {
+  //           rel: 'preload',
+  //           href: myFontFile,
+  //           as: 'font',
+  //           type: 'font/ttf',
+  //           crossorigin: ''
+  //         }
+  //       ]
+  //     ]
+  //   }
+  // },
   lastUpdated: true,
   title: "Subwork",
   description: "Minimum Viable Community in Julian Alps",
