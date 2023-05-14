@@ -16,32 +16,32 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Web3 coworking space in Slovenia',
+        text: 'web3 coworking space in Slovenia',
         items: [
-          { text: 'Julian Alps', link: '/home' },
-          { text: 'Contact', link: '/contact' },
-          { text: 'Amenities', link: '/amenities-in-coworking-space' },
-          { text: 'Sport Activities', link: '/sports-activities-around-bled' },
-          { text: 'Polkadot Bled Hackathon', link: '/polkadot-bled-hackathon' },
-          { text: 'Long Term Stay Hints', link: '/long-term-stay-hints' },
-          { text: 'Building-up-space', link: '/building-up-space' },
+          { text: 'julian alps', link: '/home' },
+          { text: 'contact', link: '/contact' },
+          { text: 'amenities', link: '/amenities-in-coworking-space' },
+          { text: 'sport activities', link: '/sports-activities-around-bled' },
+          { text: 'long term stay in bled', link: '/long-term-stay-in-bled' },
+          { text: 'building up space', link: '/building-up-space' },
+          { text: 'polkadot bled hackathon', link: '/polkadot-bled-hackathon' },
         ],
       },
       {
-        text: 'Coworkers',
+        text: 'coworkers',
         items: [
-          { text: 'Membership', link: '/membership' },
-          { text: 'Bookings', link: '/booking' },
-          { text: 'Family Members', link: '/family-members-in-subwork' },
-          { text: 'Company Retreat', link: '/company-retreat' }
+          { text: 'membership', link: '/membership' },
+          { text: 'bookings', link: '/booking' },
+          { text: 'family members', link: '/family-members-in-subwork' },
+          { text: 'company retreat', link: '/company-retreat' }
         ]
       },
       {
-        text: 'Transportation',
+        text: 'transportation',
         items: [
-          { text: 'Location of SubWork', link: '/location-of-subwork' },
-          { text: 'Transportation', link: '/transportation-to-subwork-bled-slovenia' },
-          { text: 'Comming by car', link: '/coming-by-car-to-subwork-bled' },
+          { text: 'location of SubWork', link: '/location-of-subwork' },
+          { text: 'transportation', link: '/transportation-to-subwork-bled-slovenia' },
+          { text: 'comming by car', link: '/coming-by-car-to-subwork-bled' },
 
         ]
       }
