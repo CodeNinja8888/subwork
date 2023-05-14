@@ -23,6 +23,7 @@ export default defineConfig({
           { text: 'Amenities', link: '/amenities-in-coworking-space' },
           { text: 'Sport Activities', link: '/sports-activities-around-bled' },
           { text: 'Polkadot Bled Hackathon', link: '/polkadot-bled-hackathon' },
+          { text: 'Accomodation in Bled', link: '/hotels-hostels-in-bled' },
           { text: 'Long Term Stay Hints', link: '/long-term-stay-hints' },
           { text: 'Building-up-space', link: '/building-up-space' },
         ],

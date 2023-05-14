@@ -1,45 +1,36 @@
-# 🛫 Transportation to Bled, Slovenia 🏔️
+# Accommodation in Bled, Slovenia
 
-## 🌍 Flights to Close Proximity Cities
+You can find affordable accommodation on popular booking sites like
+ - [booking.com](https://www.booking.com/)
+ - [airbnb.com](https://www.airbnb.com/)
+ - [trivago.si](https://www.trivago.si/)
+ - [trip.com](https://www.trip.com/)
+ - [hostelworld.com](https://www.hostelworld.com/)
 
-- **Venice** 🇮🇹: [GoOpti](https://www.goopti.com/sl/) offers transport services. Journey takes about 3 hours by car. Distance: 278 kilometers or 172.7 miles. 💰
-- **Ljubljana** 🇸🇮: An easy drive or bus ride. Journey takes about 1 hour. Distance: 54 kilometers or 33.5 miles. 💰💰💰
-- **Munich & Salzburg** 🇩🇪🇦🇹: Take a train to Villach, then to Lesce-Bled. Journey takes about 6 hours from Munich and 4 hours from Salzburg. Distance: 383 kilometers or 238 miles (Munich), 220 kilometers or 136.7 miles (Salzburg). 💰💰💰
-- **Zagreb** 🇭🇷: Drive or take a train (approximately 2 hours). Distance: 207 kilometers or 128.6 miles. 💰💰
-- **Klagenfurt** 🇦🇹: A short journey by train or car. Journey takes about 1 hour. Distance: 78 kilometers or 48.5 miles. 💰💰
-- **Graz** 🇦🇹: A bit further away, but accessible by train or car. Journey takes about 2.5 hours. Distance: 222 kilometers or 137.9 miles. 💰💰💰
+## Hotels 🏨
 
-## ✈️ From the Airport (Ljubljana Jože Pučnik Airport) to Bled
-About 36 kilometers or 22 miles
+Bled offers a wide range of hotels to cater for different budgets and preferences. Some notable options include:
 
-- **Bus** 🚌: Buses depart from the airport to Bled six times daily (9am, 10am, 12pm, 1pm, 4pm, 5pm). You can find the timetable [here](https://www.ap-ljubljana.si/en/timetable?departure=11917&destination=8869). 💰
-- **GoOpti Transfers** 🚐: An affordable option but remember to book well in advance. Check out their services [here](https://www.goopti.com/sl/). 💰💰
-- **Electric Car Rental** 🚗⚡: [Avant2Go](https://avant2go.si/) offers electric affordable car rentals. If you're interested in renting an electric car, be sure to fill out the necessary documents at least 24 hours before your flight. 💰💰
-- **Taxi** 🚕: An affordable taxi ride to Bled should cost less than 60 euros. You can book a taxi from [Taxi Metro](https://www.taximetro.si/). 💰💰💰
+1. [Grand Hotel Toplice](https://www.sava-hotels-resorts.com/en/sava-hoteli-bled/accommodations/grand-hotel-toplice): Located on the shore of Lake Bled, offering stunning views and luxurious accommodation.
+2. [Hotel Park](https://www.sava-hotels-resorts.com/en/sava-hoteli-bled/accommodations/hotel-park): Known for its exceptional views of the lake, castle and Julian Alps.
+3. [Bled Rose Hotel](https://bledrose.com/en/): Conveniently located in the heart of Bled, near the sports park and lake.
 
-## 🚍 From Ljubljana to Bled
-About 54 kilometers or 33.5 miles.
+## Hostels 🛌
 
-- **Bus** 🚌: Buses from Ljubljana to Bled (and vice versa) depart every hour from 5am to 9pm. You can find the timetable [here](https://www.ap-ljubljana.si/en/bus/Ljubljana%20avtobusna%20postaja-to-Bled). 💰
-- **Prevozi.org** 🚗: [prevozi.org](https://prevoz.org/) is a Slovenian website, where car drivers can post
-their listings. 💰
-- **Train** 🚂: You can take a train to Lesce and then walk to Bled (2km). Total duration: Approximately 1.5 hours. 💰💰
-- **Electric Car Rental** 🚗⚡: [Avant2Go](https://avant2go.si/) offers electric car rentals. Remember to fill out the necessary documents at least 24 hours in advance. 💰💰
-- **Taxi** 🚕: An affordable taxi ride should cost less than 60 euros. You can book a taxi from [Taxi Metro](https://www.taximetro.si/). 💰💰💰
+For budget-conscious travellers, hostels can be a great option. Here are a few in Bled:
 
-## 🚉 From Villach to Bled
-About 39 kilometers or 24 miles
+1. [Hostel Bled](https://www.hostelz.com/hostel/2674-Hostel-Bled): This hostel has a great location near the lake and offers a mix of private rooms and dormitories.
+2. [Castle Hostel 1004](https://www.hostelz.com/hostel/63392-Castle-Hostel-1004): This is a centrally located hostel known for its friendly staff and clean rooms. It offers dormitory rooms as well as private rooms.
+3. [Garden House Bled](https://www.hostelz.com/hostel/267299-Garden-House-Bled): This is a unique hostel offering comfortable accommodation with an outdoor kitchen and fire pit.
+4. [Jazz Hostel & Apartments](https://www.hostelz.com/hostel/2673-Jazz-Hostel-Apartments): Situated near the lake and offers a variety of room types.
+5. [Bled Hostel](https://www.hostelz.com/hostel/104768-Bled-Hostel): Located in the center of Bled, offering a mix of dormitory rooms and private rooms.
 
-- **Bus** 🚌 : Buses depart from the airport to Bled six times daily (9am, 10am, 12pm, 1pm, 4pm, 5pm). You can find the timetable [here](https://www.ap-ljubljana.si/en/timetable?departure=11917&destination=8869). 💰
-- **Train** 🚂: You can take a train to Lesce and then walk 2km to Bled (total duration: approximately 1.5 hours). 💰💰
+> 📝 **_NOTE:_** that it's always a good idea to read recent reviews and check current prices before booking.
 
-You can find additional information about this route [here](https://www.rome2rio.com/map/Villach/Bled).
+## Airbnb Rentals 🏠
 
-## 🛩️ Private Plane and Helicopter Rental
+Airbnb can be a great option if you're looking for a home-away-from-home experience. Here are some links to get you started:
 
-You can rent a private plane or helicopter from [Aeroaffaires in Lesce Bled](https://aeroaffaires.com/private-jet-hire-destination/lesce-bled/). 💰💰💰💰💰
-
----
-
-For more information on bus services, check out the [Ljubljana Bus Station website](https://www.ap-ljubljana.si/en/bus/Ljubljana%20avtobusna%20postaja-to-Bled).
-Please note that the price scale (💰) is an estimation. Prices can vary depending on the season, service provider, and other factors. Always check the current prices with the service provider.
+1. [Apartments in Bled](https://www.airbnb.com/Bled-Slovenia/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes)
+2. [Houses in Bled](https://www.airbnb.com/s/Bled--Slovenia/homes?property_type_id%5B%5D=2)
+3. [Unique stays in Bled](https://www.airbnb.com/s/Bled--Slovenia/homes?property_type_id%5B%5D=12)

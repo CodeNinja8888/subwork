@@ -184,8 +184,3 @@ We really care about your education about local place
 *   We can give you recommendation where to look for
 
 [ 🏕️ Long-term stay hints ](/long-term-stay-hints.md)
-
-🚧  Work in Progress
---------------------
-
-[ 🎬 🗂 Archive ](/archive.md)
