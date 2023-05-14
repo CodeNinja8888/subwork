@@ -18,6 +18,7 @@ export default defineConfig({
         text: 'Web3 coworking in Slovenia',
         items: [
           { text: 'Home', link: '/home' },
+          { text: 'Amenities', link: '/amenities-in-coworking-space' },
           { text: 'Polkadot Bled Hackathon', link: '/polkadot-bled-hackathon' },
           { text: 'Long Term Stay Hints', link: '/long-term-stay-hints' },
           { text: 'Building-up-space', link: '/building-up-space' },
@@ -29,6 +30,7 @@ export default defineConfig({
           { text: 'Membership', link: '/membership' },
           { text: 'Bookings', link: '/booking' },
           { text: 'Family Members', link: '/family-members-in-subwork' },
+          { text: 'Company Retreat', link: '/company-retreat' }
         ]
       },
       {
