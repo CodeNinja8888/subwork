@@ -36,11 +36,8 @@ co-work space by Substrate Builders from **Polkadot inviting web3 builders.**
 
 ### 👔 Conference capacities
 
-- Currently there are few congress centers you can book
-- [Rikli Balance Hotel - 350+, 8 conference halls, various setups](https://www.bled.si/de/meetings/meeting-planning/venues/2020090714580355/rikli-balance-hotel-s/)
-- [Why to choose Bled?](https://www.bled.si/de/meetings/)
-- [References for international events in Bled](https://www.bled.si/de/meetings/why-bled/references/)
-- [Upcoming world meetings](https://www.bled.si/en/events/?start=01.01.1900&end=31.12.2023&lng=eng&filter%5B%5D=2020082609001927)
+- Do you plan to organize bigger conference in meetup with your team? 
+- [We can help with that!](./company-retreat.md)
 
 🧘 SubWork abilities
 ---
@@ -75,13 +72,6 @@ co-work space by Substrate Builders from **Polkadot inviting web3 builders.**
 ![image](pics/kranjska1.avif)
 
 ![image](pics/kranjska2.avif)
-
-
-### 🧐 Why did you choose Bled?
-
-*   Has amazing medieval [history](https://en.wikipedia.org/wiki/Bled).
-*   There is superior **air-quality and nature equanimity** with lots of hike opportunities to close mountains around to faster recharge your mental wellbeing.
-*   [yangwao](https://twitter.com/yangwao) been living there since October 2021 and found it as pretty well balanced place for wellbeing, with close reach to Ljubljana, Austrian Mountains, Italian Dolomites and sea side Piran.
 
 ### 🏋️ Are you athletic soul?
 

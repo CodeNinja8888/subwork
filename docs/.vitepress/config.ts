@@ -22,9 +22,8 @@ export default defineConfig({
           { text: 'contact', link: '/contact' },
           { text: 'amenities', link: '/amenities-in-coworking-space' },
           { text: 'sport activities', link: '/sports-activities-around-bled' },
-          { text: 'accomodation in bled', link: '/hotels-hostels-in-bled' },
-          { text: 'long term stay in bled', link: '/long-term-stay-in-bled' },
           { text: 'building up space', link: '/building-up-space' },
+          { text: 'why did we choose bled', link: '/why-did-we-choose-bled' },
           { text: 'polkadot bled hackathon', link: '/polkadot-bled-hackathon' },
         ],
       },
@@ -38,11 +37,13 @@ export default defineConfig({
         ]
       },
       {
-        text: 'transportation',
+        text: 'accommodation & transportation',
         items: [
           { text: 'location of SubWork', link: '/location-of-subwork' },
+          { text: 'accomodation', link: '/hotels-hostels-in-bled' },
           { text: 'transportation', link: '/transportation-to-subwork-bled-slovenia' },
-          { text: 'comming by car', link: '/coming-by-car-to-subwork-bled' },
+          { text: 'coming by car', link: '/coming-by-car-to-subwork-bled' },
+          { text: 'long term stay in bled', link: '/long-term-stay-in-bled' },
 
         ]
       }
