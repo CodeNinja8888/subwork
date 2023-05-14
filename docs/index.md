@@ -5,10 +5,10 @@ layout: home
 hero:
   name: "Subwork - web3 coworking in Slovenia"
   text: "Minimum Viable Community in Julian Alps"
-  tagline: My great project tagline
+  tagline: Crypto & AI hub in Slovenia in most beautiful nature of Europe
   actions:
     - theme: brand
-      text: Homepage
+      text: Why?
       link: /home
     - theme: alt
       text: Book your stay
@@ -16,13 +16,19 @@ hero:
     - theme: alt
       text: Join our Hackathon
       link: /polkadot-bled-hackathon
+    - theme: alt
+      text: Amenities
+      link: /amentiies-in-coworking-space
+    - theme: alt
+      text: Transporation
+      link: /transporation-to-subwork-bled-slovenia
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Slovenia is most crypto friendly destination
+    details: One of foundational reason having SubWork been, that Slovenia is home of Bitstamp and Elly POS.
+  - title: Superior weather all day long
+    details: Beautiful cloudless winter and not so hot summer makes Subwork perfect destination for your long-term stay focusing on your productivity
+  - title: Wellbeing-first
+    details: You always want to focus on your wellbeing and growth while staying sharp focused on your delivery? We are your choice!
 ---
 
