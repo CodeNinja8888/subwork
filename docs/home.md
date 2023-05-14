@@ -12,7 +12,7 @@ co-work space by Substrate Builders from **Polkadot inviting web3 builders.**
 - we have focus on **web3 teams,** which are building in Polkadot ecosystem.
 - we will warmly welcome any web3 builders to hangout and share their insights in our **sunny royalcore styled lounge area with marble floor.**
 
-🤔 why?
+🤔 why we are here?
 ---
 
 *   🏃‍♂️ A morning workout in nature does wonders with your mind & body.
@@ -39,13 +39,13 @@ co-work space by Substrate Builders from **Polkadot inviting web3 builders.**
 - Do you plan to organize bigger conference in meetup with your team? 
 - [We can help with that!](./company-retreat.md)
 
-🧘 SubWork abilities
+🧘 subwork abilities
 ---
 - We can comfortable accommodate 30 builders on daily basis witn comfortable seating
 - [Host local tech, crypto and ai meetups, technological and art events](./rent-subwork-venue-in-bled.md)
 - [We can help you with bigger teams retreats](./company-retreat.md)
 
-🏞  Surroundings
+🏞  surroundings
 ---
 
 ![image](pics/bled1.avif)
@@ -55,7 +55,8 @@ co-work space by Substrate Builders from **Polkadot inviting web3 builders.**
 ![image](pics/bled3.avif)
 
 
-### 🏊‍♂️  Bohinj Lake
+🏊‍♂️  bohinj Lake
+---
 
 *   our favourite spot for swimming sessions
 
@@ -65,7 +66,8 @@ co-work space by Substrate Builders from **Polkadot inviting web3 builders.**
 
 ![image](pics/bohinj3.avif)
 
-### 🏔 Kranjska Gora
+🏔 kranjska Gora
+---
 
 *   Usually hiking base for people all year around
 
@@ -73,21 +75,22 @@ co-work space by Substrate Builders from **Polkadot inviting web3 builders.**
 
 ![image](pics/kranjska2.avif)
 
-### 🏋️ Are you athletic soul?
+🏋️ are you athletic soul?
+---
 
 Have a peak on [sport activities you can do around SubWork](./sports-activities-around-bled.md)
 
 ![image](pics/hacker_space1.avif)
 
-### 🏛 Museum
+🏛 museum
+---
 
 We really care about your education about local place
 
 *   [Arnold Rikli](https://en.wikipedia.org/wiki/Arnold_Rikli)
 *   [Bled](https://en.wikipedia.org/wiki/Bled)
 
-### 🏡 Looking for long-term stay?
+🏡 Looking for long-term stay?
+---
 
-*   We can give you recommendation where to look for
-
-[ 🏕️ Long-term stay hints ](/long-term-stay-in-bled.md)
+- We can give you recommendation where to look for [Long-term stay](/long-term-stay-in-bled.md).
