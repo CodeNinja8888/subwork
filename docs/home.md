@@ -1,38 +1,36 @@
 
 
-
-# SubWork.xyz
+# Coworking space in Bled, Slovenia
 
 ![SubWork.xyz ](pics/header.avif)
-
-SubWork.xyz
-===========
 
 Co-work focused by Substrate Builders from **Polkadot inviting web3 builders.**
 
 👨‍🏭 Who we are?
------------------
+---
 
-We are **power builders from the Substrate ecosystem** - [KodaDot](https://twitter.com/kodadot).
+- We are **power builders from the Substrate ecosystem** - [KodaDot](https://twitter.com/kodadot).
+- We always wanted to have **space in nature away from everything.** Where others could come over to **re-charge and build their dream in peace** with like-minded athletic achievers.
+- We have focus on **web3 teams,** which are building in Polkadot ecosystem.
+- We will warmly welcome any web3 builders to hangout and share their insights in our **sunny royalcore styled lounge area with marble floor.**
 
-We always wanted to have **space in nature away from everything.** Where others could come over to **re-charge and build their dream in peace** with like-minded athletic achievers.
-
-We have focus on **web3 teams,** which are building in Polkadot ecosystem.
-
-We will warmly welcome any web3 builders to hangout and share their insights in our **sunny royalcore styled lounge area with marble floor.**
-
-
-### 🤔 Why?
+🤔 Why?
+---
 
 *   🏃‍♂️ A morning workout in nature does wonders with your mind & body.
 *   🚴 Beautiful sceneries outside of capital city, which creates mind serenity.
 *   💨 Come to realise your achievement and render your dream.
 *   ☀️ Bled has average [annual amount of 2455 sunshine hours](https://en.climate-data.org/europe/slovenia/bled/bled-52121/), which guarantee your daily mood even in winter!
 
-### 🕰 When you are open?
+👩‍💻 Who I can meet in space?
+---
 
-*   **We are already open and had over 9 co-workers in SubWork in December ‘22**
-*   Want to pay us a visit or book venue? Hit our Telegram group in Contact section and arrange your visit, you are welcome!
+- [Who is daily inside SubWork?](./family-members-in-subwork.md)
+- We are open and had daily 
+  - 9 co-workers in SubWork in December ‘22
+  - 11 co-workers in SubWork in May ‘23
+- Want to pay us a visit ? 
+  - [Join our Telegram group, you are welcome!](./contact.md)
 
 ![image](pics/coffee.avif)
 
@@ -40,35 +38,20 @@ We will warmly welcome any web3 builders to hangout and share their insights in 
 
 ### 👔 Conference capacities
 
-*   Currently there are few congress centers you can book
+- Currently there are few congress centers you can book
+- [Rikli Balance Hotel - 350+, 8 conference halls, various setups](https://www.bled.si/de/meetings/meeting-planning/venues/2020090714580355/rikli-balance-hotel-s/)
+- [Why to choose Bled?](https://www.bled.si/de/meetings/)
+- [References for international events in Bled](https://www.bled.si/de/meetings/why-bled/references/)
+- [Upcoming world meetings](https://www.bled.si/en/events/?start=01.01.1900&end=31.12.2023&lng=eng&filter%5B%5D=2020082609001927)
 
-*   [Rikli Balance Hotel - 350+, 8 conference halls, various setups](https://www.bled.si/de/meetings/meeting-planning/venues/2020090714580355/rikli-balance-hotel-s/)
-
-*   [Why to choose Bled?](https://www.bled.si/de/meetings/)
-
-*   [References for international events in Bled](https://www.bled.si/de/meetings/why-bled/references/)
-*   [Upcoming world meetings](https://www.bled.si/en/events/?start=01.01.1900&end=31.12.2023&lng=eng&filter%5B%5D=2020082609001927)
-
-### 🧘 SubWork desires
-
-*   We could comfortable accommodate approximately 30 builders on daily basis
+🧘 SubWork abilities
+---
+- We can comfortable accommodate 30 builders on daily basis witn comfortable seating
 - [Host local tech, crypto and ai meetups, technological and art events](./rent-subwork-venue-in-bled.md)
 - [We can help you with bigger teams retreats](./company-retreat.md)
 
-
-### 📸  Look and feel
-
-We still need to tune place to be superior for workspace like
-
-*   Tackle acoustics of space with acoustic panels
-*   ✅  Build meeting rooms to build crafts with others
-*   ✅  Create lounge & gaming area
-*   ✅  Daily speciality coffee ☕️ , Yerba Maté 🧉 & Club-Maté
-*   ✅  Add lot of plants 🪴 to pursue Solarpunk vibes
-*   ✅  Paint it to calm gray colour **#808080**
-*   ✅  Add 🚿 bathroom to harness your morning shower thoughts
-
 🏞  Surroundings
+---
 
 ![image](pics/bled1.avif)
 
@@ -104,33 +87,8 @@ We still need to tune place to be superior for workspace like
 
 ### 🏋️ Are you athletic soul?
 
-![image](pics/athletic1.avif)
+Have a peak on [sport activities you can do around SubWork](./sports-activities-around-bled.md)
 
-*   Prior moving to Bled was desire to find environment, where we can do sport and recreate our wellbeing in nature **in least artificial way whole year**
-*   What kind of sports you can do here? Seems there are few great options
-
-*   Cycling
-
-*   Road bike 🚴‍♀️
-*   Mountain downhill biking 🚵‍♂️
-
-*   Running 🏃‍♀️
-*   Hiking 🥾
-*   Snowshoeing ❄️🥾
-*   Climbing 🧗‍♂️
-*   Rowing 🚣‍♂️
-*   Snowboarding 🏂
-*   Cross country skiing ⛷
-
-### 🛣 Roadmap
-
-*   Mid-July ‘22 — fine tuning details in space
-*   August ‘22 — hosting first unofficial visits
-*   October ‘22 — unofficial first ceremony
-*   December ‘22 — first web3 meetups _~_
-*   March-April ‘23 — potential Bled hackathon
-
-[ 🪢 Polkadot-Bled-hackathon ](/polkadot-bled-hackathon.md)
 
 ![image](pics/hacker_space1.avif)
 
