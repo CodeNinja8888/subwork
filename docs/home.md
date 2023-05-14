@@ -1,20 +1,18 @@
-
-
 # Coworking space in Bled, Slovenia
 
 ![SubWork.xyz ](pics/header.avif)
 
-Co-work focused by Substrate Builders from **Polkadot inviting web3 builders.**
+co-work space by Substrate Builders from **Polkadot inviting web3 builders.**
 
-👨‍🏭 Who we are?
+👨‍🏭 who we are?
 ---
 
-- We are **power builders from the Substrate ecosystem** - [KodaDot](https://twitter.com/kodadot).
-- We always wanted to have **space in nature away from everything.** Where others could come over to **re-charge and build their dream in peace** with like-minded athletic achievers.
-- We have focus on **web3 teams,** which are building in Polkadot ecosystem.
-- We will warmly welcome any web3 builders to hangout and share their insights in our **sunny royalcore styled lounge area with marble floor.**
+  we are **power builders from the Substrate ecosystem** - [KodaDot](https://twitter.com/kodadot).
+- we always wanted to have **space in nature away from everything.** Where others could come over to **re-charge and build their dream in peace** with like-minded athletic achievers.
+- we have focus on **web3 teams,** which are building in Polkadot ecosystem.
+- we will warmly welcome any web3 builders to hangout and share their insights in our **sunny royalcore styled lounge area with marble floor.**
 
-🤔 Why?
+🤔 why?
 ---
 
 *   🏃‍♂️ A morning workout in nature does wonders with your mind & body.
@@ -22,15 +20,15 @@ Co-work focused by Substrate Builders from **Polkadot inviting web3 builders.**
 *   💨 Come to realise your achievement and render your dream.
 *   ☀️ Bled has average [annual amount of 2455 sunshine hours](https://en.climate-data.org/europe/slovenia/bled/bled-52121/), which guarantee your daily mood even in winter!
 
-👩‍💻 Who I can meet in space?
+👩‍💻 who I can meet in space?
 ---
 
-- [Who is daily inside SubWork?](./family-members-in-subwork.md)
-- We are open and had daily 
+- [who is daily inside SubWork?](./family-members-in-subwork.md)
+- we are open and had daily 
   - 9 co-workers in SubWork in December ‘22
   - 11 co-workers in SubWork in May ‘23
-- Want to pay us a visit ? 
-  - [Join our Telegram group, you are welcome!](./contact.md)
+- want to pay us a visit ? 
+  - [join our Telegram group, you are welcome!](./contact.md)
 
 ![image](pics/coffee.avif)
 
@@ -44,7 +42,7 @@ Co-work focused by Substrate Builders from **Polkadot inviting web3 builders.**
 - [References for international events in Bled](https://www.bled.si/de/meetings/why-bled/references/)
 - [Upcoming world meetings](https://www.bled.si/en/events/?start=01.01.1900&end=31.12.2023&lng=eng&filter%5B%5D=2020082609001927)
 
-🧘 SubWork abilities
+🧘 SubWork abilities
 ---
 - We can comfortable accommodate 30 builders on daily basis witn comfortable seating
 - [Host local tech, crypto and ai meetups, technological and art events](./rent-subwork-venue-in-bled.md)
@@ -89,24 +87,7 @@ Co-work focused by Substrate Builders from **Polkadot inviting web3 builders.**
 
 Have a peak on [sport activities you can do around SubWork](./sports-activities-around-bled.md)
 
-
 ![image](pics/hacker_space1.avif)
-
-### 🍻 Collaboration areas
-
-These areas looking for cool Polkadotish terms, feel free to suggest some!
-
-*   ✅  Corner high-tables with bar
-*   ✅  Collaborative family table for 10 people
-*   ✅  Standing desk
-*   ✅  Council chatroom
-*   ✅  Polkadot Meeting Room - family table 10 people
-*   ✅  4x 120cm workspaces
-*   ✅  5x 160cm workspaces
-*   🚧  2x 160cm workspace
-*   🚧  Kusama Meeting Room
-*   🚧  Pair programming collaborative table
-*   🚧  Leave me alone focus place
 
 ### 🏛 Museum
 
