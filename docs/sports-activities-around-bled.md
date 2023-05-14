@@ -1,14 +1,12 @@
-## Sport Activities around Bled
+# Sport Activities around Bled
 
-<<<<<<< HEAD
-
----
 ![image](pics/athletic1.avif)
 
 *   Prior moving to Bled was desire to find environment, where we can do sport and recreate our wellbeing in nature **in least artificial way whole year**
-*   What kind of sports you can do here? Seems there are few great options
 
-*   Cycling
+
+What kind of sports you can do here? Seems there are few great options
+
 
 *   Road bike 🚴‍♀️
 *   Mountain downhill biking 🚵‍♂️
@@ -20,7 +18,6 @@
 *   Rowing 🚣‍♂️
 *   Snowboarding 🏂
 *   Cross country skiing ⛷
->>>>>>> origin
 
 Mountains
 ---
