@@ -21,23 +21,6 @@ We have focus on **web3 teams,** which are building in Polkadot ecosystem.
 
 We will warmly welcome any web3 builders to hangout and share their insights in our **sunny royalcore styled lounge area with marble floor.**
 
-📍 Where we are?
-----------------
-
-![](pics/location.avif)![image](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-*   The location is at [Bled, in the north part of Slovenia](https://goo.gl/maps/KvDbeJwVGxQM5sBS9), south eastern Europe.
-*   📸 [How does Bled looks like?](https://www.google.com/search?q=bled+slovenia+beautiful+photos)
-
-🚗  **Close proximity to**
-
-*   🏞  [Lake Bled](https://en.wikipedia.org/wiki/Lake_Bled), where co-work is based
-*   🏞  [Lake Bohinj](https://en.wikipedia.org/wiki/Lake_Bohinj) — 20 min
-*   ⛰  [Julian Alps](https://en.wikipedia.org/wiki/Julian_Alps) — [Triglav National Park](https://goo.gl/maps/ut7PXBq7VD3DTy2k9)
-*   ⛰  [Karawanks Alps](https://en.wikipedia.org/wiki/Karawanks)
-*   ✈️  [LJU - Ljubljana Jože Pučnik Airport](https://en.wikipedia.org/wiki/Ljubljana_Jo%C5%BEe_Pu%C4%8Dnik_Airport) — 30 mins
-*   🏙  [Ljubljana](https://en.wikipedia.org/wiki/Ljubljana) — capital of 🇸🇮 — 40 mins
-*   🌅  [Piran](https://en.wikipedia.org/wiki/Piran) - 🌊 🏖 sea side - 90 mins
 
 ### 🤔 Why?
 
@@ -52,18 +35,6 @@ We will warmly welcome any web3 builders to hangout and share their insights in 
 *   Want to pay us a visit or book venue? Hit our Telegram group in Contact section and arrange your visit, you are welcome!
 
 ![image](pics/coffee.avif)
-
-🤙 Contact
-----------
-
-*   [Twiterritos @SubWorkBled](https://twitter.com/subworkbled)
-*   [Subscribe for upcoming Events at SubWork meetup page](https://www.meetup.com/subwork/)
-*   Come over to [ask a question to our Telegram](https://t.me/+-fURMbVHvB0wNTdk) ✈️
-*   Feel free to reach out and book your visit & stay
-*   [Directions to SubWork](https://goo.gl/maps/VHcaWbhwAV77KgTX9)
-*   [Have you been at our place recently?](https://g.page/r/CWs7EEKFN9-zEBM/review)
-
-*   [Please share your review to let others know about this amazing coworking in nature](https://g.page/r/CWs7EEKFN9-zEBM/review)
 
 🧰 Amenities
 ------------

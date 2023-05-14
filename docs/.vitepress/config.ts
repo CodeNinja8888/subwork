@@ -7,10 +7,10 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Main', link: '/' },
-      { text: 'Home', link: '/home' },
-      { text: 'Meetup', link: 'https://meetup.com/subwork'},
-      { text: 'Telegram', link: 'https://t.me/+VoZsr7MEds84ZjQ0' }
+      { text: 'SubWork', link: '/' },
+      { text: 'Coworking Space in Bled, Slovenia in beautiful nature', link: '/home' },
+      { text: 'location', link: '/location-of-subwork' },
+      { text: 'telegram chat', link: 'https://t.me/+VoZsr7MEds84ZjQ0' }
     ],
 
     sidebar: [
@@ -18,12 +18,26 @@ export default defineConfig({
         text: 'Web3 coworking in Slovenia',
         items: [
           { text: 'Home', link: '/home' },
-          { text: 'Bookings', link: '/booking' },
           { text: 'Polkadot Bled Hackathon', link: '/polkadot-bled-hackathon' },
           { text: 'Long Term Stay Hints', link: '/long-term-stay-hints' },
           { text: 'Building-up-space', link: '/building-up-space' },
-          { text: 'Companies', link: '/companies' },
-          { text: 'Coming by car', link: '/coming-by-car-to-subwork-bled'}
+        ],
+      },
+      {
+        text: 'Coworkers',
+        items: [
+          { text: 'Membership', link: '/membership' },
+          { text: 'Bookings', link: '/booking' },
+          { text: 'Family Members', link: '/family-members-in-subwork' },
+        ]
+      },
+      {
+        text: 'Transportation',
+        items: [
+          { text: 'Location of SubWork', link: '/location'},
+          { text: 'Transportation', link: '/transportation-to-subwork-bled-slovenia'},
+          { text: 'Comming by car', link: '/coming-by-car-to-subwork-bled'},
+
         ]
       }
     ],

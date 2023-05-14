@@ -11,8 +11,8 @@ hero:
       text: Why?
       link: /home
     - theme: alt
-      text: Book your stay
-      link: /booking
+      text: Membership
+      link: /membership
     - theme: alt
       text: Join our Hackathon
       link: /polkadot-bled-hackathon
@@ -21,7 +21,7 @@ hero:
       link: /amentiies-in-coworking-space
     - theme: alt
       text: Transporation
-      link: /transporation-to-subwork-bled-slovenia
+      link: /transportation-to-subwork-bled-slovenia
 
 features:
   - title: Slovenia is most crypto friendly destination
