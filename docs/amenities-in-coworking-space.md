@@ -1,5 +1,8 @@
 # Amenities
 
+![subwork_familytable](./pics/subwork_familytable.png)
+- speciality coffee lovers doing daily grind
+
 type of areas we have in SubWork
 ---
 - space for focused work
@@ -32,8 +35,11 @@ premium objects in space
 services
 ---
 - package handling 
-- community social events on regular basis
-- lot of premium restaurants around Bled
+
+
+community social events on regular basis
+---
+![subwork_crypto_meetup](pics/subwork_meetup.png)
 
 micro gym in coworking space
 ---

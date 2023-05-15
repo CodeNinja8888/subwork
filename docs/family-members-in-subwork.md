@@ -57,6 +57,8 @@ const members = [
 ]
 </script>
 
+![subwork_family](pics/subwork_family.png)
+
 brogrammers
 ---
 

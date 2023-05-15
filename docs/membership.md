@@ -4,6 +4,8 @@ We are operating as non-profit and we are looking sustainably growing our space.
 
 We are happy to give you first try out for first review on Google Maps and elsewhere to find out it if it's something you've been looking for. However as operating bussines _we need to cover our investments, running costs as rent and day-to-day resources_, cleaning to maintain accessible and clean space for everyone.
 
+![meeting_subwork](pics/subwork_meeting.png)
+
 daypass
 ---
 - We are happy to give you first try out for first review on Google Maps to find out it if it's something you've been looking for.
@@ -39,6 +41,9 @@ fix desk
 
 meeting rooms
 ---
+In SubWork we offer three meeting spots with privacy and accoustic insulation. 
+
+![subwork_meeting_room_collab](pics/subwork_meeting_collab.png)
 
 polkadot room
 ---

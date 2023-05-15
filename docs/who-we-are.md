@@ -1,6 +1,8 @@
 Who we are?
 ---
 
+![subwork_grind](pics/subwork_grinder_ondra.png)
+
 - We are identify as crypto hub in Slovenia with handsome AI engineers and GPT0rs experiments. We love to experiment and trying new things, because that's how innovations happens. 
 
 - Check our current [family members](./family-members-in-subwork.md)

@@ -3,6 +3,8 @@
 🤙 Contact
 ----------
 
+![subwork_minting](pics/subwork_geisha.png)
+
 - [Twiter @SubWorkBled](https://twitter.com/subworkbled)
 - [Subscribe for upcoming community meetups at SubWork](https://www.meetup.com/subwork/)
 - Are you curious? [Come to ask a question to our Telegram](https://t.me/+-fURMbVHvB0wNTdk)
