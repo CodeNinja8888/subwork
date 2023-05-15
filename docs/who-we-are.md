@@ -1,6 +1,8 @@
 Who we are?
 ---
 
+- We are identify as crypto hub in Slovenia with handsome AI engineers and GPT0rs experiments. We love to experiment and trying new things, because that's how innovations happens. 
+
 - Check our current [family members](./family-members-in-subwork.md)
 
 - We are building perma crypto village like [Davos, Switzerland](https://www.coindesk.com/tag/davos/), [Lugano, Switzerland](https://planb.lugano.ch/) or any similiar initiative, which would like host crypto & AI people on periodic and long-term basis.
