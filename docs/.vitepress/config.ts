@@ -47,9 +47,9 @@ export default defineConfig({
       {
         text: 'web3 coworking space',
         items: [
+          { text: 'amenities', link: '/amenities-in-coworking-space' },
           { text: 'contact', link: '/contact' },
           { text: 'why bled', link: '/why-did-we-choose-bled' },
-          { text: 'amenities', link: '/amenities-in-coworking-space' },
           { text: 'who we are', link: '/who-we-are' },
           { text: 'building up space', link: '/building-up-space' },
         ],

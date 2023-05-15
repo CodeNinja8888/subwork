@@ -1,6 +1,6 @@
-## Where is SubWork located in Slovenia?
+## Where is SubWork located?
 
-📍 where we are?
+📍 Bled, Slovenia, Europe
 ---
 
 ![location-of-subwork](pics/location.avif)![image](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
