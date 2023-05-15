@@ -5,24 +5,23 @@
 
 ![location-of-subwork](pics/location.avif)![image](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-*   The location is at [Bled, in the north part of Slovenia](https://goo.gl/maps/KvDbeJwVGxQM5sBS9), south eastern Europe.
-*   📸 [How does Bled looks like?](https://www.google.com/search?q=bled+slovenia+beautiful+photos)
+- The location is at [Bled, in the north part of Slovenia](https://goo.gl/maps/KvDbeJwVGxQM5sBS9), south eastern Europe.
+- 📸 [How does Bled looks like?](https://www.google.com/search?q=bled+slovenia+beautiful+photos)
 
 🚗  Close proximity to
 ---
 
-*   🏞  [Lake Bled](https://en.wikipedia.org/wiki/Lake_Bled), where co-work is based
-*   🏞  [Lake Bohinj](https://en.wikipedia.org/wiki/Lake_Bohinj) — 20 min
-*   ⛰  [Julian Alps](https://en.wikipedia.org/wiki/Julian_Alps) — [Triglav National Park](https://goo.gl/maps/ut7PXBq7VD3DTy2k9)
-*   ⛰  [Karawanks Alps](https://en.wikipedia.org/wiki/Karawanks)
-*   ✈️  [LJU - Ljubljana Jože Pučnik Airport](https://en.wikipedia.org/wiki/Ljubljana_Jo%C5%BEe_Pu%C4%8Dnik_Airport) — 30 mins
-*   🏙  [Ljubljana](https://en.wikipedia.org/wiki/Ljubljana) — capital of 🇸🇮 — 40 mins
-*   🌅  [Piran](https://en.wikipedia.org/wiki/Piran) - 🌊 🏖 sea side - 90 mins
+- 🏞  [Lake Bled](https://en.wikipedia.org/wiki/Lake_Bled), where co-work is based
+- 🏞  [Lake Bohinj](https://en.wikipedia.org/wiki/Lake_Bohinj) — 20 min
+- ⛰  [Julian Alps](https://en.wikipedia.org/wiki/Julian_Alps) — [Triglav National Park](https://goo.gl/maps/ut7PXBq7VD3DTy2k9)
+- ⛰  [Karawanks Alps](https://en.wikipedia.org/wiki/Karawanks)
+- ✈️  [LJU - Ljubljana Jože Pučnik Airport](https://en.wikipedia.org/wiki/Ljubljana_Jo%C5%BEe_Pu%C4%8Dnik_Airport) — 30 mins
+- 🏙  [Ljubljana](https://en.wikipedia.org/wiki/Ljubljana) — capital of 🇸🇮 — 40 mins
+- 🌅  [Piran](https://en.wikipedia.org/wiki/Piran) - 🌊 🏖 sea side - 90 mins
 
 
 Location in Bled, Slovenia
 ---
-
 
 We are located in Trgovski Center Bled. Entrance is next to the Mercator, Kavarna Apropo.
 

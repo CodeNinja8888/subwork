@@ -7,26 +7,28 @@ co-work space by Substrate Builders from **Polkadot inviting web3 builders.**
 👨‍🏭 who we are?
 ---
 
-  we are **power builders from the Substrate ecosystem** - [KodaDot](https://twitter.com/kodadot).
+-  we are **power builders from the Substrate ecosystem** - [KodaDot](https://twitter.com/kodadot), [**top1 dapp in Polkadot** by Github Metrics](https://github.com/topics/polkadot)
 - we always wanted to have **space in nature away from everything.** Where others could come over to **re-charge and build their dream in peace** with like-minded athletic achievers.
-- we have focus on **web3 teams,** which are building in Polkadot ecosystem.
+- we have focus on **web3 teams**
 - we will warmly welcome any web3 builders to hangout and share their insights in our **sunny royalcore styled lounge area with marble floor.**
+- 📖 Read more [who we are](./who-we-are.md)
 
-🤔 why we are here?
+🤔 why we are at Bled?
 ---
 
-*   🏃‍♂️ A morning workout in nature does wonders with your mind & body.
-*   🚴 Beautiful sceneries outside of capital city, which creates mind serenity.
-*   💨 Come to realise your achievement and render your dream.
-*   ☀️ Bled has average [annual amount of 2455 sunshine hours](https://en.climate-data.org/europe/slovenia/bled/bled-52121/), which guarantee your daily mood even in winter!
+- 🏃‍♂️ A morning workout in nature does wonders with your mind & body.
+- 🚴 Beautiful sceneries outside of capital city, which creates mind serenity.
+- 💨 Come to realise your achievement and render your dream.
+-  ☀️ Bled has average [annual amount of 2455 sunshine hours](https://en.climate-data.org/europe/slovenia/bled/bled-52121/), which guarantee your daily mood even in winter!
+- 📖 Read more [why Bled is amazing place for your productivity](./why-did-we-choose-bled.md)
 
 👩‍💻 who I can meet in space?
 ---
 
 - [who is daily inside SubWork?](./family-members-in-subwork.md)
-- we are open and had daily 
-  - 9 co-workers in SubWork in December ‘22
-  - 11 co-workers in SubWork in May ‘23
+- daily amounts of coworkers in SubWork
+  - 9 co-workers in December ‘22
+  - 11 co-workers in May ‘23
 - want to pay us a visit ? 
   - [join our Telegram group, you are welcome!](./contact.md)
 
@@ -34,7 +36,8 @@ co-work space by Substrate Builders from **Polkadot inviting web3 builders.**
 
 ![image](pics/nice_place.avif)
 
-### 👔 Conference capacities
+👔 conference capacities
+---
 
 - Do you plan to organize bigger conference in meetup with your team? 
 - [We can help with that!](./company-retreat.md)
@@ -48,34 +51,9 @@ co-work space by Substrate Builders from **Polkadot inviting web3 builders.**
 🏞  surroundings
 ---
 
-![image](pics/bled1.avif)
+Are you curious [how does it look around Bled?](./surroundings.md)
 
-![image](pics/bled2.avif)
-
-![image](pics/bled3.avif)
-
-
-🏊‍♂️  bohinj Lake
----
-
-*   our favourite spot for swimming sessions
-
-![image](pics/bohinj1.avif)
-
-![image](pics/bohinj2.avif)
-
-![image](pics/bohinj3.avif)
-
-🏔 kranjska Gora
----
-
-*   Usually hiking base for people all year around
-
-![image](pics/kranjska1.avif)
-
-![image](pics/kranjska2.avif)
-
-🏋️ are you athletic soul?
+🏋️ you are athletic soul
 ---
 
 Have a peak on [sport activities you can do around SubWork](./sports-activities-around-bled.md)
@@ -90,7 +68,7 @@ We really care about your education about local place
 *   [Arnold Rikli](https://en.wikipedia.org/wiki/Arnold_Rikli)
 *   [Bled](https://en.wikipedia.org/wiki/Bled)
 
-🏡 Looking for long-term stay?
+🏡 options for long-term stay
 ---
 
 - We can give you recommendation where to look for [Long-term stay](/long-term-stay-in-bled.md).

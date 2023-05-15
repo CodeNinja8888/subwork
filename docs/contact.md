@@ -8,13 +8,13 @@
 - Are you curious? [Come to ask a question to our Telegram](https://t.me/+-fURMbVHvB0wNTdk)
 - Feel free to reach out and book your visit & stay
 
-Location
+📍 Location
 ---
 - [Directions to SubWork](https://goo.gl/maps/VHcaWbhwAV77KgTX9)
 - [Where is SubWork located?](./location-of-subwork.md)
 
 
-Give us Review
+⭐️ Leave Us Review
 ---
 - [Have you been at our place recently? We would love to have your review!](https://g.page/r/CWs7EEKFN9-zEBM/review)
 - [Please share your review to let others know about this amazing coworking in nature](https://g.page/r/CWs7EEKFN9-zEBM/review)

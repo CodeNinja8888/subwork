@@ -22,9 +22,9 @@ premium objects in space
   - industry standard wi-fi coverage by Ubiquiti
 - podcasting equipment
   - for your new video episodes
-  - [Two studio high-performance gamer microphones](https://hyperx.com/products/hyperx-quadcast-s-usb-microphone?variant=41031692058781)
-  - [Streamcam w/ 1080p AF](https://www.logitech.com/en-ch/products/webcams/streamcam.960-001281.html)
-  - Ring lights
+  - [two studio high-performance gamer microphones](https://hyperx.com/products/hyperx-quadcast-s-usb-microphone?variant=41031692058781)
+  - [streamcam w/ 1080p AF](https://www.logitech.com/en-ch/products/webcams/streamcam.960-001281.html)
+  - ring lights
 - shower
   - Are you feeling sporty and want finish your morning workout in SubWork? We've got shower in space!
   - Want some shower thoughts before entering into deep work focus window?
@@ -44,13 +44,13 @@ we feel sporty everyday and to keep up our development pace, you need to have at
 
 flexible
 ---
-- On-site support 
+- on-site support 
   - your code doesn't build? We have experts in Rust, Typescript, Vue, Substrate, Solidity
-- Bicycle-friendly
+- bicycle-friendly
   - you can come to SubWork on bike!
-- Crypto-enabled
+- crypto-enabled
   - place on earth where price talk is allowed
-- Air-conditioning
+- air-conditioning
   - right working temperature
 
 drinks 

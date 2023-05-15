@@ -58,7 +58,7 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'sport activities', link: '/sports-activities-around-bled' },
-          // { text: 'kremsnita index', link: '/kremsnita-index'}
+          { text: 'surroundings', link: '/surroundings'}
         ]
       },
       {
@@ -66,9 +66,9 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'membership', link: '/membership' },
-          { text: 'bookings', link: '/booking' },
           { text: 'family members', link: '/family-members-in-subwork' },
-          { text: 'company retreat', link: '/company-retreat' }
+          { text: 'company retreat', link: '/company-retreat' },
+          { text: 'bookings', link: '/booking' },
         ]
       },
       {

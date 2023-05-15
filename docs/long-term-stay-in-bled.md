@@ -1,20 +1,21 @@
 # 🏕️
 
-Long-term stay hints
-====================
+long-term stay hints
+---
 
-Here are list of websites of local real-estate brokers
+list of websites of local real-estate brokers
 
-If you have hint which one we should add, hit us up
+- [nepremicnine.net](https://www.nepremicnine.net/oglasi-oddaja/gorenjska/stanovanje/)
+- [makler-bled.si](https://www.makler-bled.si/)
+- [stoja-trade.si](https://www.stoja-trade.si/) (agency can help you find something on demand)
+- [inalbea-realestate.si](https://www.inalbea-realestate.si/)
+- [re-max.si](https://www.re-max.si/)
+- [sloveniaestates.com](https://www.sloveniaestates.com/properties/view-all-properties/) (good, if you want to buy whole castle
 
-*   [https://www.nepremicnine.net/oglasi-oddaja/gorenjska/stanovanje/](https://www.nepremicnine.net/oglasi-oddaja/gorenjska/stanovanje/)
-*   [https://www.makler-bled.si/](https://www.makler-bled.si/)
-*   [https://www.stoja-trade.si/](https://www.stoja-trade.si/) (agency can help you find something on demand)
-*   [https://www.inalbea-realestate.si/](https://www.inalbea-realestate.si/)
-*   [https://www.re-max.si/](https://www.re-max.si/)
-*   [https://www.sloveniaestates.com/properties/view-all-properties/](https://www.sloveniaestates.com/properties/view-all-properties/) (good, if you want to buy whole castle
-
-As SubWork is located in Bled, Gorenjska region, looking in close cities is recommended
+close villages around SubWork
+---
+As SubWork is located in Bled, Gorenjska region, looking in close cities is recommended.
+Most of them are in close reach by bike.
 
 *   Lesce (has train connection to LJ and Villach, AT)
 *   Radovljica
