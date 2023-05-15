@@ -1,17 +1,20 @@
-# Coworking space in Bled, Slovenia
+# crypto coworking space in Bled, Slovenia
 
 ![SubWork.xyz ](pics/header.avif)
 
-co-work space by Substrate Builders from **Polkadot inviting web3 builders.**
+- co-work space by Substrate Builders from **Polkadot inviting web3 builders.**
 
 👨‍🏭 who we are?
 ---
 
--  we are **power builders from the Substrate ecosystem** - [KodaDot](https://twitter.com/kodadot), [**top1 dapp in Polkadot** by Github Metrics](https://github.com/topics/polkadot)
+-  we are **power builders from the Substrate ecosystem** - [KodaDot](https://twitter.com/kodadot)
+   - [**top1 dapp in Polkadot** by Github Metrics](https://github.com/topics/polkadot)
 - we always wanted to have **space in nature away from everything.** Where others could come over to **re-charge and build their dream in peace** with like-minded athletic achievers.
 - we have focus on **web3 teams**
-- we will warmly welcome any web3 builders to hangout and share their insights in our **sunny royalcore styled lounge area with marble floor.**
 - 📖 Read more [who we are](./who-we-are.md)
+
+
+![bled_straza](pics/bled_from_straza.png)
 
 🤔 why we are at Bled?
 ---
@@ -19,8 +22,11 @@ co-work space by Substrate Builders from **Polkadot inviting web3 builders.**
 - 🏃‍♂️ A morning workout in nature does wonders with your mind & body.
 - 🚴 Beautiful sceneries outside of capital city, which creates mind serenity.
 - 💨 Come to realise your achievement and render your dream.
--  ☀️ Bled has average [annual amount of 2455 sunshine hours](https://en.climate-data.org/europe/slovenia/bled/bled-52121/), which guarantee your daily mood even in winter!
+-  ☀️ Bled has average [annual amount of 2455 sunshine hours](https://en.climate-data.org/europe/slovenia/bled/bled-52121/),
+   -  guarantee your daily mood even in winter
 - 📖 Read more [why Bled is amazing place for your productivity](./why-did-we-choose-bled.md)
+
+![image](pics/coffee.avif)
 
 👩‍💻 who I can meet in space?
 ---
@@ -32,7 +38,6 @@ co-work space by Substrate Builders from **Polkadot inviting web3 builders.**
 - want to pay us a visit ? 
   - [join our Telegram group, you are welcome!](./contact.md)
 
-![image](pics/coffee.avif)
 
 ![image](pics/nice_place.avif)
 

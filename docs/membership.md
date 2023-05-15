@@ -40,7 +40,7 @@ fix desk
 meeting rooms
 ---
 
-polkadot
+polkadot room
 ---
 
 <picture_of_meeting_room_polkadot>
@@ -49,14 +49,14 @@ polkadot
 - 65" telly for your brainstorming sessions equipped with ChromeCast
 - 50€/h
 
-kusama
+kusama room
 ---
 - Accoustically insulated 
 - 6 seats
 - Podcasting equipment with hig-performance gaming microphones and ring light for perfect picture for your YouTube recordings
 - 50€/h
 
-private calling booth - solo chain
+solo chain - private calling booth
 ---
 
 <picture_of_calling_booth>

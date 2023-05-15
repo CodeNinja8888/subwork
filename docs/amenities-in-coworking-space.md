@@ -26,8 +26,8 @@ premium objects in space
   - [streamcam w/ 1080p AF](https://www.logitech.com/en-ch/products/webcams/streamcam.960-001281.html)
   - ring lights
 - shower
-  - Are you feeling sporty and want finish your morning workout in SubWork? We've got shower in space!
-  - Want some shower thoughts before entering into deep work focus window?
+  - are you feeling sporty and want finish your morning workout in SubWork? We've got shower in space!
+  - want some shower thoughts before entering into deep work focus window?
 
 services
 ---
