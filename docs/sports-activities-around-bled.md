@@ -1,6 +1,6 @@
 # Sport Activities around Bled
 
-![image](pics/athletic1.avif)
+![image](pics/athletic1.png)
 
 *   Prior moving to Bled was desire to find environment, where we can do sport and recreate our wellbeing in nature **in least artificial way whole year**
 
