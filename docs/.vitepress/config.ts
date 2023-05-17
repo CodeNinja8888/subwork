@@ -32,7 +32,7 @@ export default defineConfig({
       pattern: 'https://github.com/kodadot/subwork/edit/main/docs/:path'
     },
     footer: {
-      message: 'VitePress generated at SubWork',
+      message: 'VitePress generated at SubWork, some pictures from Unsplash',
       copyright: 'Copyright © 2023-present SubWork membas'
     },
     nav: [
@@ -59,6 +59,7 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'sport activities', link: '/sports-activities-around-bled' },
+          { text: 'mountain peaks and cabins', link: '/mountain-peaks-and-alpine-cabins'},
           { text: 'surroundings', link: '/surroundings'}
         ]
       },

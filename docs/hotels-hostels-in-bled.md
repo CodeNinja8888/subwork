@@ -1,5 +1,7 @@
 # Accommodation in Bled, Slovenia
 
+![bled_bird_view](pics/bled_bird_view.png)
+
 You can find affordable accommodation on popular booking sites like
  - [booking.com](https://www.booking.com/)
  - [airbnb.com](https://www.airbnb.com/)

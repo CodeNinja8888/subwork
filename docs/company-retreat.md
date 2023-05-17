@@ -1,6 +1,8 @@
 ## Company retreats
 
-Are you looking for sapce for your company retreat? We are your perfect place! Reach out us on Telegram and we can discuss details.
+![bled_company_retreat](./pics/bled_company_retreat.png)
+
+Are you looking for sapce for your company retreat? We are your perfect place! **Reach out us on Telegram** and we can discuss details.
 
 Conference places
 ---

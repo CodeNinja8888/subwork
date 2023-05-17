@@ -1,5 +1,7 @@
 # 🛫 Transportation to Bled, Slovenia 🏔️
 
+![subwork_travel](./pics/subwork_travel.png)
+
 ## 🌍 Flights to Close Proximity Cities
 
 - **Venice** 🇮🇹: [GoOpti](https://www.goopti.com/sl/) offers transport services. Journey takes about 3 hours by car. Distance: 278 kilometers or 172.7 miles. 💰

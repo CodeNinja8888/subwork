@@ -22,7 +22,8 @@ Coming to Slovenia to enjoy your stay for sport activity, relax and you need pla
 flex desk
 ---
 
-<sunny_picture_of_hotdesk>
+![subwork_flexdesk](pics/subwork_flexdesk.jpeg)
+
 - Are you living near, however at home you are bored as one or have lot of distractions from kids? We are your place to go.
 - You have guaranteed table
 - You'll get temporary key
@@ -32,7 +33,8 @@ flex desk
 fix desk
 ---
 
-<sunny_picture_of_fixdesk>
+![subwork_fixdesk](pics/subwork_fixdesk.jpeg)
+
 - Early bird, fresh startup founder with raised money need place to focus? Having revenue from your AI GPT startup? We are your place number one in Slovenia to have right peer group help you 10x your revenue.
 - Own Plant on your table
 - Option to have 160cm desk if available in space
