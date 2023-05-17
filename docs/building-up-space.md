@@ -5,10 +5,10 @@ We've started renovating in 4/2022 and we've found this space has huge potential
 
 
 ### When we've been on first lookups of space
-![image](pics/archive/arch2.avif)
+![image](pics/archive/subwork_spring22.png)
 
 ### Mid Summer 2022
-![image](pics/archive/arch4.avif)
+![image](pics/archive/subwork_summer22.png)
 
 ### Late Fall 2022
-![image](pics/archive/arch3.avif)
+![image](pics/archive/subwork_fall22.png)

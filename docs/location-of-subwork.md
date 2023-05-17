@@ -3,7 +3,7 @@
 
 ![bled_winter](./pics/bled_winter.png)
 
-Bled is located 40mins from capital of Slovenia, Ljubljana. 
+Bled is located _40 mins from capital of Slovenia, Ljubljana_. 
 Currently reccomended airports for international flights are
 - LJU, Slovenia
 - Zagreb, Croatia
@@ -11,6 +11,7 @@ Currently reccomended airports for international flights are
 - Graz, Austria
 - Munich, Germany
 - Vienna, Austria
+- 📖 [Learn more about transporation to Bled](./transportation-to-subwork-bled-slovenia.md)
 
 📍 Bled, Slovenia, Europe
 ---
