@@ -19,10 +19,10 @@ hero:
 
 features:
   - icon: 🇸🇮
-    title: Slovenia - most crypto friendly destination in Europe
+    title: The most crypto friendly destination in Europe
     details: Home to Bitstamp and Elly POS, Slovenia is a hotspot for crypto enthusiasts. Its crypto-friendly environment and legal framework make it an ideal base for SubWork.
   - icon: ☀️
-    title: Unbeatable Year-Round Weather
+    title: Year-Round Sun
     details: Experience clear winters and mild summers. Bled has an impressive average of 2455 annual sunshine hours! This perfect blend guarantees a superior mood and enhanced productivity.
   - icon: 🦾
     title: Thrive in a Productivity-Driven Community
