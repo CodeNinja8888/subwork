@@ -70,6 +70,7 @@ export default defineConfig({
           { text: 'membership', link: '/membership' },
           { text: 'family members', link: '/family-members-in-subwork' },
           { text: 'company retreat', link: '/company-retreat' },
+          { text: 'partner with SubWork', link: '/partner-with-coworking-space-subwork'},
           { text: 'bookings', link: '/booking' },
         ]
       },
