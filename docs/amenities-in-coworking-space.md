@@ -5,6 +5,8 @@
 
 type of areas we have in SubWork
 ---
+
+> picture of premier lounge area to secure your milion $ tickets
 - space for focused work
 - space for collaborative work
 - space for relaxation
@@ -12,8 +14,13 @@ type of areas we have in SubWork
 - all areas are accousticially insulated for your silent comfort
 - lounge areas for executive meetings
 
+![fix_desk_in_subwork](pics/subwork_flexdesk.jpeg)
+
 premium objects in space
 ---
+
+> picture of good looking monstera in sunlight 
+
 - lot of plants 
   - over 30 and counting
 - 4K 32" USB-C monitors 
@@ -34,22 +41,34 @@ premium objects in space
 
 services
 ---
+
+> picture of delivered package waiting for you to unbox
+
 - package handling 
 
 
 community social events on regular basis
 ---
+- We are organizing events on infrequent basis, we reccomend you better [subscribe to our Meetup group](https://www.meetup.com/subwork/) to be informed ahead.
+
 ![subwork_crypto_meetup](pics/subwork_meetup.png)
+
+![subwork_breakfast](pics/subwork_breakfast.jpg)
 
 micro gym in coworking space
 ---
-we feel sporty everyday and to keep up our development pace, you need to have athletic mentality
+![subwork_rowing](pics/subwork_rowing.jpg)
+
+we feel sporty everyday and to keep up our development pace fast. We will help to build athletic mentality.
 - pull-up bar 
 - [WaterRower Rowing Machine](https://www.nohrd.com/us/waterrower/)
 - [Abdominal Trainer, Back Extension Bench and Weight Bench](https://www.nohrd.com/us/triatrainer/)
 
 flexible
 ---
+
+> statsh of bikes 
+
 - on-site support 
   - your code doesn't build? We have experts in Rust, Typescript, Vue, Substrate, Solidity
 - bicycle-friendly
@@ -61,6 +80,10 @@ flexible
 
 drinks 
 ---
+
+> picture of cold brew 
+> picture of very cold club mate, imagine.
+
 - speciality coffee bean bags
   - equipment like frenchpress and commandante grinder
 - club-Mate
