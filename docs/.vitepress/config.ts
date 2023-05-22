@@ -83,7 +83,13 @@ export default defineConfig({
           { text: 'transportation', link: '/transportation-to-subwork-bled-slovenia' },
           { text: 'coming by car', link: '/coming-by-car-to-subwork-bled' },
           { text: 'long term stay in bled', link: '/long-term-stay-in-bled' },
-
+        ]
+      },
+      {
+        text: 'working in SubWork',
+        collapsed: true,
+        items: [
+          { text: 'governance', link: '/rules-for-coworkers'}
         ]
       }
     ],
