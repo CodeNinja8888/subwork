@@ -14,14 +14,14 @@ hero:
       text: amenities
       link: /amenities-in-coworking-space
     - theme: alt
-      text: membership
-      link: /membership
+      text: sport activities
+      link: /sports-activities-around-bled
     - theme: alt
-      text: transporation
-      link: /transportation-to-subwork-bled-slovenia
+      text: mountain peaks
+      link: /mountain-peaks-and-alpine-cabins
     - theme: alt
-      text: family members
-      link: /family-members-in-subwork
+      text: surroundings
+      link: /surroundings
     - theme: alt
       text: join our community events
       link: https://meetup.com/subwork/
