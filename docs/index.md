@@ -49,6 +49,6 @@ features:
 <br>
 
 <p align="center">
-  <img src="pics/subwork_hero.png" style="max-width:1150px;width:100%" />
+  <img src="/subwork_hero.png" style="max-width:1150px;width:100%" />
 </p>
 
