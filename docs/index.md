@@ -47,10 +47,8 @@ features:
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 
+<p align="center">
+  <img src="pics/subwork_hero.png" style="max-width:1150px;width:100%" />
+</p>
 
-
-![lake bled](pics/subwork_hero.png)
