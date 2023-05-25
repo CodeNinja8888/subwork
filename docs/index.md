@@ -7,7 +7,7 @@ hero:
   text: "minimum viable community in Julian Alps"
   tagline: Crypto & AI hub in most beautiful nature of Slovenia, Europe
   image: 
-    src: pics/subwork_colddrip.jpg
+    src: /subwork_colddrip.jpg
     alt: SubWork web3 jungle
   actions:
     - theme: alt
