@@ -13,9 +13,15 @@ hero:
     - theme: alt
       text: why?
       link: /why-did-we-choose-bled
-    - theme: brand
+    - theme: alt
       text: amenities
       link: /amenities-in-coworking-space
+    - theme: alt
+      text: our community events
+      link: https://meetup.com/subwork/
+    - theme: alt
+      text: telegram
+      link: https://t.me/+-fURMbVHvB0wNTdk 
     - theme: alt
       text: sport activities
       link: /sports-activities-around-bled
@@ -25,9 +31,6 @@ hero:
     - theme: alt
       text: surroundings
       link: /surroundings
-    - theme: alt
-      text: join our community events
-      link: https://meetup.com/subwork/
 
 features:
   - icon: 🏔️
