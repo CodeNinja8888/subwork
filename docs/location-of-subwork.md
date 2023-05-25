@@ -5,12 +5,12 @@
 
 Bled is located _40 mins from capital of Slovenia, Ljubljana_. 
 Currently reccomended airports for international flights are
-- Ljubljana, Slovenia 🇸🇮
-- Zagreb, Croatia 🇭🇷
-- Venice, Italy 🇮🇹 
-- Graz, Austria 🇦🇹
-- Munich, Germany 🇩🇪
-- Vienna, Austria 🇦🇹
+- 🇸🇮 Ljubljana, Slovenia 
+- 🇭🇷 Zagreb, Croatia 
+- 🇮🇹 Venice, Italy 
+- 🇦🇹 Graz, Austria 
+- 🇩🇪 Munich, Germany 
+- 🇦🇹 Vienna, Austria 
 - 📖 [Learn more about transporation to Bled](./transportation-to-subwork-bled-slovenia.md)
 
 📍 Bled, Slovenia, Europe
@@ -31,16 +31,17 @@ Currently reccomended airports for international flights are
 - ✈️  [LJU - Ljubljana Jože Pučnik Airport](https://en.wikipedia.org/wiki/Ljubljana_Jo%C5%BEe_Pu%C4%8Dnik_Airport) — 30 mins
 - 🏙 [Ljubljana](https://en.wikipedia.org/wiki/Ljubljana) — capital of 🇸🇮 — 40 mins
 ---
-- 🌅 [Piran](https://en.wikipedia.org/wiki/Piran) - sea side - 90 mins
-- 🌅 [Portorose](https://en.wikipedia.org/wiki/Portoro%C5%BE) - sea side 90 mins
-- 🇭🇷 [Zagreb](https://en.wikipedia.org/wiki/Zagreb) - 120 min
-- 🇭🇷 [Opatija](https://en.wikipedia.org/wiki/Opatija) - sea side - 120 min
-- 🇭🇷 [Rovinj](https://en.wikipedia.org/wiki/Rovinj) - sea side - 140 min 
-- 🇭🇷 [Pula](https://en.wikipedia.org/wiki/Pula) - sea side - 180 min
-- 🇦🇹 [Salzburg](https://en.wikipedia.org/wiki/Salzburg) - 150 min 
-- 🇮🇹 [Venice](https://en.wikipedia.org/wiki/Venice) - 180 min
-- 🇩🇪 [Munich](https://en.wikipedia.org/wiki/Munich) - 240 min 
-- 🇦🇹 [Vienna](https://en.wikipedia.org/wiki/Vienna) - 270 min
+
+- 🌅 [Piran](https://en.wikipedia.org/wiki/Piran) — sea side, 90 mins
+- 🌅 [Portorose](https://en.wikipedia.org/wiki/Portoro%C5%BE) — sea side, 90 mins
+- 🇭🇷 [Opatija](https://en.wikipedia.org/wiki/Opatija) — sea side, 120 min
+- 🇭🇷 [Zagreb](https://en.wikipedia.org/wiki/Zagreb) — 120 min
+- 🇭🇷 [Rovinj](https://en.wikipedia.org/wiki/Rovinj) — sea side, 140 min 
+- 🇭🇷 [Pula](https://en.wikipedia.org/wiki/Pula) — sea side, 180 min
+- 🇦🇹 [Salzburg](https://en.wikipedia.org/wiki/Salzburg) — 150 min 
+- 🇮🇹 [Venice](https://en.wikipedia.org/wiki/Venice) — 180 min
+- 🇩🇪 [Munich](https://en.wikipedia.org/wiki/Munich) — 240 min 
+- 🇦🇹 [Vienna](https://en.wikipedia.org/wiki/Vienna) — 270 min
 
 
 🚶‍♀️ how to get to the SubWork?
@@ -54,7 +55,7 @@ Currently reccomended airports for international flights are
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10632.824390225414!2d14.101336860080114!3d46.36683985844772!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477a9735546512eb%3A0xb3df378542103b6b!2sSubWork%20-%20coworking%20space!5e0!3m2!1sen!2ssi!4v1684324091953!5m2!1sen!2ssi" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-🚪 Entrance to SubWork
+🚪 entrance to SubWork
 ---
 
 - We are located in Trgovski Center Bled at upper floor.

@@ -71,7 +71,6 @@ export default defineConfig({
           { text: 'family members', link: '/family-members-in-subwork' },
           { text: 'company retreat', link: '/company-retreat' },
           { text: 'partner with SubWork', link: '/partner-with-coworking-space-subwork'},
-          { text: 'bookings', link: '/booking' },
         ]
       },
       {
@@ -89,7 +88,8 @@ export default defineConfig({
         text: 'working in SubWork',
         collapsed: true,
         items: [
-          { text: 'governance', link: '/rules-for-coworkers'}
+          { text: 'governance', link: '/rules-for-coworkers'},
+          { text: 'booking desk and meeting room', link: '/booking-desk-and-meeting-room-in-subwork' },
         ]
       }
     ],

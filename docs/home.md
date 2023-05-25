@@ -1,8 +1,8 @@
-# crypto coworking space in Bled, Slovenia
+# crypto coworking space in Bled, Slovenia <Badge type="warning" text="beta" />1
 
-![SubWork.xyz ](pics/header.png)
+![lake bled](pics/subwork_hero.png)
 
-- co-work space by Substrate Builders from **Polkadot inviting web3 builders.**
+> co-work space by Substrate Builders from **Polkadot inviting web3 builders.**
 
 👨‍🏭 who we are?
 ---
@@ -15,6 +15,7 @@
 
 
 ![bled_straza](pics/bled_from_straza.png)
+> view from hill Straza, which is 200m from SubWork
 
 🤔 why we are at Bled?
 ---
@@ -26,7 +27,7 @@
    -  guarantee your daily mood even in winter
 - 📖 Read more [why Bled is amazing place for your productivity](./why-did-we-choose-bled.md)
 
-![image](pics/coffee.png)
+![subwork_colddrip](pics/subwork_colddrip.jpg)
 
 👩‍💻 who I can meet in space?
 ---
@@ -35,11 +36,13 @@
 - daily amounts of coworkers in SubWork
   - 9 co-workers in December ‘22
   - 11 co-workers in May ‘23
+- daily guests coming from cities like Zurich, Singapore, Berlin, Prague, Vienna, Zagreb, Copenhagen, Milan and many more
 - want to pay us a visit ? 
   - [join our Telegram group, you are welcome!](./contact.md)
 
 
 ![image](pics/nice_place.png)
+> SubWork Summer '22, we should put newer picture here
 
 👔 conference capacities
 ---
@@ -64,6 +67,7 @@ Are you curious [how does it look around Bled?](./surroundings.md)
 Have a peak on [sport activities you can do around SubWork](./sports-activities-around-bled.md)
 
 ![image](pics/hacker_space1.png)
+> SubWork Summer '22, we should put newer picture here
 
 🏛 museum
 ---
