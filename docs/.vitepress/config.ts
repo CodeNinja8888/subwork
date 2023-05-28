@@ -15,6 +15,7 @@ export default defineConfig({
         lastmod: pageData.lastUpdated
       })
   },
+  // generates sitemap
   buildEnd: async ({ outDir }) => {
     const sitemap = new SitemapStream({
       hostname: 'https://subwork.xyz/'
@@ -25,8 +26,6 @@ export default defineConfig({
     sitemap.end()
     await new Promise((r) => writeStream.on('finish', r))
   },
-
-  
   
   // transformHead({ assets }) {
   //   // adjust the regex accordingly to match your font
