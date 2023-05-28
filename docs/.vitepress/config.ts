@@ -1,7 +1,33 @@
+import { createWriteStream } from 'node:fs'
+import { resolve } from 'node:path'
+import { SitemapStream } from 'sitemap'
 import { defineConfig } from 'vitepress'
+
+const links = []
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  transformHtml: (_, id, { pageData }) => {
+    if (!/[\\/]404\.html$/.test(id))
+      links.push({
+        // you might need to change this if not using clean urls mode
+        url: pageData.relativePath.replace(/((^|\/)index)?\.md$/, '$2'),
+        lastmod: pageData.lastUpdated
+      })
+  },
+  buildEnd: async ({ outDir }) => {
+    const sitemap = new SitemapStream({
+      hostname: 'https://subwork.xyz/'
+    })
+    const writeStream = createWriteStream(resolve(outDir, 'sitemap.xml'))
+    sitemap.pipe(writeStream)
+    links.forEach((link) => sitemap.write(link))
+    sitemap.end()
+    await new Promise((r) => writeStream.on('finish', r))
+  },
+
+  
+  
   // transformHead({ assets }) {
   //   // adjust the regex accordingly to match your font
   //   const myFontFile = assets.find(file => /Raleway-Light\.\w+\.ttf/)
