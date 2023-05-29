@@ -72,8 +72,8 @@ export default defineConfig({
       {
         text: 'web3 coworking space',
         items: [
-          { text: 'amenities', link: '/amenities-in-coworking-space' },
           { text: 'contact', link: '/contact' },
+          { text: 'amenities', link: '/amenities-in-coworking-space' },
           { text: 'why bled', link: '/why-did-we-choose-bled' },
           { text: 'who we are', link: '/who-we-are' },
           { text: 'building up space', link: '/building-up-space' },
@@ -93,6 +93,7 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'membership', link: '/membership' },
+          { text: 'meeting rooms', link: '/book-meeting-room-bled' },
           { text: 'family members', link: '/family-members-in-subwork' },
           { text: 'company retreat', link: '/company-retreat' },
           { text: 'partner with SubWork', link: '/partner-with-coworking-space-subwork'},

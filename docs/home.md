@@ -1,4 +1,4 @@
-# crypto coworking space in Bled, Slovenia <Badge type="warning" text="beta" />1
+# crypto coworking space in Bled, Slovenia <Badge type="warning" text="beta" />
 
 ![lake bled](pics/subwork_hero.png)
 

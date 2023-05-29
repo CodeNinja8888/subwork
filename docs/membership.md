@@ -2,14 +2,14 @@
 
 We are operating as non-profit and we are looking sustainably growing our space.
 
-We are happy to give you first try out for first review on Google Maps and elsewhere to find out it if it's something you've been looking for. However as operating bussines _we need to cover our investments, running costs as rent and day-to-day resources_, cleaning to maintain accessible and clean space for everyone.
+We are happy to give you first try out for first review on Google Maps, to explore, if we are coworking you've been looking for. However as operating bussines _we need to cover our investments, running costs as rent and day-to-day resources_, like maintain accessible and clean space for everyone.
 
 ![meeting_subwork](pics/subwork_meeting.png)
 
 daypass
 ---
-- We are happy to give you first try out for first review on Google Maps to find out it if it's something you've been looking for.
-- [Google Maps Review](https://g.page/r/CWs7EEKFN9-zEBE/review)
+- We are happy to give you first try out for first review on Google Maps to let you explore, if it's fitting coworking you've been looking for.
+- [Google Maps ⭐️ Review](https://g.page/r/CWs7EEKFN9-zEBE/review)
 
 weekpass
 ---
@@ -43,40 +43,20 @@ fix desk
 
 meeting rooms
 ---
-In SubWork we offer three meeting spots with privacy and accoustic insulation. 
+In SubWork we offer three meeting rooms with privacy for your work, collaboration and accoustic insulation.
 
 ![subwork_meeting_room_collab](pics/subwork_meeting_collab.png)
 
-polkadot room
----
-
-<picture_of_meeting_room_polkadot>
-- Accoustically insulated
-- 8 seats
-- 65" telly for your brainstorming sessions equipped with ChromeCast
-- 50€/h
-
-kusama room
----
-- Accoustically insulated 
-- 6 seats
-- Podcasting equipment with hig-performance gaming microphones and ring light for perfect picture for your YouTube recordings
-- 50€/h
-
-solo chain - private calling booth
----
-
-<picture_of_calling_booth>
-- Accoustically insulated corner
-- Good for focusing
+- [📖 Learn more about meeting rooms in SubWork, Bled](./book-meeting-room-bled.md)
 
 rent venue for your event
 ---
 
-<wholesome_picture_of_venue>
-- Want to rent SubWork? Let us know! Price start at 300€/day. 
-- Are you NGO, non-profit or students organization? We can give you discount!
-- [Read more](./rent-subwork-venue-in-bled.md)
+![subwork_rent_venue](pics/subwork_venue.png)
+
+- Want to rent SubWork? Let us know, price start at 500€/day. 
+- Are you NGO, non-profit or students organization? We can offer you friendly discount.
+- [📖 Learn more](./rent-subwork-venue-in-bled.md)
 
 payment options
 ---
