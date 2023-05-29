@@ -84,8 +84,9 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'sport activities', link: '/sports-activities-around-bled' },
-          { text: 'mountain peaks and cabins', link: '/mountain-peaks-and-alpine-cabins'},
-          { text: 'surroundings', link: '/surroundings'}
+          { text: 'mountain peaks and cabins', link: '/mountain-peaks-and-alpine-cabins' },
+          { text: 'standup paddle & canoe', link: '/rent-standup-paddle-in-bled-bohinj' },
+          { text: 'surroundings', link: '/surroundings' }
         ]
       },
       {

@@ -11,7 +11,7 @@
    - [**top1 dapp in Polkadot** by Github Metrics](https://github.com/topics/polkadot)
 - we always wanted to have **space in nature away from everything.** Where others could come over to **re-charge and build their dream in peace** with like-minded athletic achievers.
 - we have focus on **web3 teams**
-- 📖 Read more [who we are](./who-we-are.md)
+- [📖 Learn more who we are](./who-we-are.md)
 
 
 ![bled_straza](pics/bled_from_straza.png)
@@ -25,7 +25,7 @@
 - 💨 Come to realise your achievement and render your dream.
 -  ☀️ Bled has average [annual amount of 2455 sunshine hours](https://en.climate-data.org/europe/slovenia/bled/bled-52121/),
    -  guarantee your daily mood even in winter
-- 📖 Read more [why Bled is amazing place for your productivity](./why-did-we-choose-bled.md)
+- [📖 Learn why Bled is amazing place for your productivity](./why-did-we-choose-bled.md)
 
 ![subwork_colddrip](pics/subwork_colddrip.jpg)
 
@@ -36,13 +36,14 @@
 - daily amounts of coworkers in SubWork
   - 9 co-workers in December ‘22
   - 11 co-workers in May ‘23
-- daily guests coming from cities like Zurich, Singapore, Berlin, Prague, Vienna, Zagreb, Copenhagen, Milan and many more
+- daily guests coming from cities like _Zurich, Singapore, Berlin, Prague, Vienna, Zagreb, Copenhagen, Milan_ and many more
 - want to pay us a visit ? 
   - [join our Telegram group, you are welcome!](./contact.md)
 
 
-![image](pics/nice_place.png)
-> SubWork Summer '22, we should put newer picture here
+
+![rent_venue_bled_subwork](pics/subwork_venue.png)
+> SubWork Spring '23, merchandise shop
 
 👔 conference capacities
 ---
@@ -59,23 +60,23 @@
 🏞  surroundings
 ---
 
-Are you curious [how does it look around Bled?](./surroundings.md)
+- Are you curious [how does it look around Bled?](./surroundings.md)
 
 🏋️ you are athletic soul
 ---
 
-Have a peak on [sport activities you can do around SubWork](./sports-activities-around-bled.md)
+- Have a peak on [sport activities you can do around SubWork](./sports-activities-around-bled.md)
 
-![image](pics/hacker_space1.png)
-> SubWork Summer '22, we should put newer picture here
+![lake_bohinj](pics/lake_bohinj_canoes.png)
+> Canoes at Lake Bohinj
 
 🏛 museum
 ---
 
 We really care about your education about local place
 
-*   [Arnold Rikli](https://en.wikipedia.org/wiki/Arnold_Rikli)
-*   [Bled](https://en.wikipedia.org/wiki/Bled)
+- [Arnold Rikli](https://en.wikipedia.org/wiki/Arnold_Rikli)
+- [Bled](https://en.wikipedia.org/wiki/Bled)
 
 🏡 options for long-term stay
 ---
