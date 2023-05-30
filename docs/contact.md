@@ -1,14 +1,16 @@
-## Reach out to SubWork for your visit
+Reach out to SubWork for your visit 🤙
+---
+- Are you curious? Come to ask a questions!
+- [**Telegram - SubWork Bled**](https://t.me/+VoZsr7MEds84ZjQ0)
 
-🤙 Contact
-----------
+📥 Follow & Subscribe
+---
+
+- [twiter.com/@SubWorkBled](https://twitter.com/subworkbled)
+- [our upcoming community meetups](https://www.meetup.com/subwork/)
+- Feel free to reach out and book your visit & stay
 
 ![subwork_minting](pics/subwork_geisha.png)
-
-- [Twiter @SubWorkBled](https://twitter.com/subworkbled)
-- [Subscribe for upcoming community meetups at SubWork](https://www.meetup.com/subwork/)
-- Are you curious? [Come to ask a question to our Telegram](https://t.me/+-fURMbVHvB0wNTdk)
-- Feel free to reach out and book your visit & stay
 
 📍 Location
 ---
