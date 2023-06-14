@@ -45,6 +45,7 @@ premium objects in space
 community social events on regular basis
 ---
 - We are organizing events on infrequent basis, we reccomend you better [subscribe to our Meetup group](https://www.meetup.com/subwork/) to be informed ahead.
+- 📖 [learn more about events](./events-in-subwork.md)
 
 ![subwork_crypto_meetup](pics/subwork_meetup.png)
 > lot of folks on our first polkadot mini-conf
@@ -97,6 +98,9 @@ drinks
 - wine
   - have closed seed-round and you need some chill?
 - tea and matcha
+
+
+![espresso_tonic](pics/espresso_tonic.png)
 
 services
 ---

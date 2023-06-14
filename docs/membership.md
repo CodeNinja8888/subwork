@@ -11,6 +11,8 @@ daypass
 - We are happy to give you first try out for first review on Google Maps to let you explore, if it's fitting coworking you've been looking for.
 - [Google Maps ⭐️ Review](https://g.page/r/CWs7EEKFN9-zEBE/review)
 
+![subwork_hacker_stand](pics/subwork_hacker_stand.png)
+
 weekpass
 ---
 Coming to Slovenia to enjoy your stay for sport activity, relax and you need place to focus for your writing? Perfect fit for you. 

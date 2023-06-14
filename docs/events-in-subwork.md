@@ -9,6 +9,8 @@ From past events like Xmas party, Polkadot Mini-Conf or casual Friday breakfast,
 - [polkadotbled.xyz](https://polkadotbled.xyz)
 - L2 hackathon
 
+![event_polkadot_miniconf](pics/event_polkadot_miniconf.png)
+
 Meetups we plan to organize
 ---
 We have in line 20 speakers who would likely to come to SubWork and we just need to settle date with them. You can have [a peak on our planned meetups in SubWork](https://github.com/kodadot/subwork/issues?q=is%3Aopen+label%3Ameetup+sort%3Aupdated-desc) 
