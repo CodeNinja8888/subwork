@@ -123,6 +123,7 @@ export default defineConfig({
         text: 'working in SubWork',
         collapsed: true,
         items: [
+          { text: 'first time in Subwork', link: '/first-time-in-subwork' },
           { text: 'governance', link: '/rules-for-coworkers'},
           { text: 'booking desk and meeting room', link: '/booking-desk-and-meeting-room-in-subwork' },
         ]

@@ -32,3 +32,8 @@ coliving
 ---
 If you want to have more peers under one roof, 
 we encourage you [to create coliving option for others](./coliving-in-bled.md).
+
+
+rent bike long term
+---
+There are few options where to [rent bike in Bled](https://www.bled.si/en/information/getting-around-bled/2019100917061847/bike-and-e-bike-rental/)
