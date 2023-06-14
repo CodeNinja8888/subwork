@@ -57,6 +57,9 @@
 - [Host local tech, crypto and ai meetups, technological and art events](./rent-subwork-venue-in-bled.md)
 - [We can help you with bigger teams retreats](./company-retreat.md)
 
+![subwork_hacker](./pics/subwork_hacker_zoom.png)
+
+
 🏞  surroundings
 ---
 
@@ -78,7 +81,8 @@ We really care about your education about local place
 - [Arnold Rikli](https://en.wikipedia.org/wiki/Arnold_Rikli)
 - [Bled](https://en.wikipedia.org/wiki/Bled)
 
-🏡 options for long-term stay
+options for long-term stay 🏡 
 ---
 
-- We can give you recommendation where to look for [Long-term stay](/long-term-stay-in-bled.md).
+- we can give you recommendation where to look for [long-term stay](/long-term-stay-in-bled.md)
+- want [to make coliving? Let's go!](./coliving-in-bled.md)

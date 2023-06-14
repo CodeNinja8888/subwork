@@ -17,3 +17,6 @@ We've started renovating in 4/2022 and we've found this space has huge potential
 
 ### Late Spring 2023
 ![image](pics/subwork_late_spring_2023.jpg)
+
+### Early Summer 2023
+![subwork_corner](pics/subwork_corner_hacker.png)

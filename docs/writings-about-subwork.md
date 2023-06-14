@@ -1,6 +1,10 @@
 # Writings about SubWork
 
-Do you want to share experience in SubWork with others? You are more than welcome to do so!
+![subwork_writings](./pics/subwork_writings.png)
+
+Do you want to share experience in SubWork with others? 
+
+You are more than welcome to do so and gain exposure you've been experiencing SubWork among first!
 
 
 List of articles we have about SubWork

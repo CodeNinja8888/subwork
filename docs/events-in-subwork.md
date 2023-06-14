@@ -1,5 +1,7 @@
 # Events 📅
 
+![subwork_meetup](pics/subwork_meetup.png)
+
 We organized numerous events in SubWork and in feature we plan to do so.
 
 From past events like Xmas party, Polkadot Mini-Conf or casual Friday breakfast, we plan to make end of summer L2 hackathon and shoot few events during summer as various hosts are coming to our space. Everything depends on availibility of speakers and their will.

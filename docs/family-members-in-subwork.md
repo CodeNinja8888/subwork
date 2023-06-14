@@ -1,5 +1,7 @@
 # Family Members in SubWork
 
+![subwork_hacker](pics/subwork_hacker_zoom.png)
+
 Current coworkers are among top class web3 startups and AI experimentators
 
 companies
@@ -8,9 +10,9 @@ companies
 - founders of [kodaDot - most popular open source nft marketplace](https://kodadot.xyz)
   - [yangwao](https://twitter.com/yangwao)
   - [vikiival](https://twitter.com/vikiival)
-- [poppyseedDev](https://twitter.com/poppyseeddev) doing her Rust courses and got accepted to Polkadot Blockchain Academy 
+- [poppyseedDev](https://twitter.com/poppyseeddev) doing her Rust courses, recently got accepted to Polkadot Blockchain Academy at Berkley, US
 - various fund managers
-- hotdesking clients among local family office.
+- hotdesking clients among local family office
 - regional and neighbourhood corporate members
 
 

@@ -3,7 +3,6 @@
 As we are having _more than 8 members daily in space_, it's time to lay out basic rules to coordinate in space in positive way and being excellent to each other.
 
 
-
 # using scarce resources 
 conference room
 ---

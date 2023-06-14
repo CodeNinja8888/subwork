@@ -1,5 +1,7 @@
 # First time in SubWork
 
+![subwork_corner_hacker](pics/subwork_corner_hacker.png)
+
 You are already in our coworking space and want to get more familiar with stuff. This is quick brief when no-one is around available help you in person as they might be busy or enjoying sports in nature.
 
 Welcome

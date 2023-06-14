@@ -1,5 +1,7 @@
-Coliving in Bled
----
+# Coliving in Bled
+
+![coliving_bled](pics/coliving_bled.png)
+
 
 Currently we are at max capacity of one house. 
 
