@@ -41,5 +41,6 @@ Incoming guests
 | Who | Telegram | Approximate Date | How many tables do you need | 
 | --- | --- | --- | --- |
 | yangwao | [@yangwao](https://t.me/@yangwao) | Since June 2022 | 1 | 
+| lukevi | n/a | June 2, 2023 | 1 | 
 
 
