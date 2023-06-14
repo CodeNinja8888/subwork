@@ -1,5 +1,7 @@
 # Coming by car to SubWork, Bled, Slovenia
 
+![charging_car](./pics/charging_car.png)
+
 ## Where is the best you could park your car?
 
 We reccomend you public parking using [EasyPark app to park](https://easypark.si/) from mobile. It should be few cents per hour.

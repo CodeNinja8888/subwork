@@ -2,6 +2,8 @@
 
 Each space has running daily space and to help feel well everyone in space, it's more than welcome if you can take care of any kind of tasks.
 
+![watering_plants](pics/watering_plant.png)
+
 
 Watering plants
 ---

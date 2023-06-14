@@ -18,7 +18,7 @@ type of areas we have in SubWork
 ![fix_desk_in_subwork](pics/subwork_flexdesk.jpeg)
 
 premium objects in space
----$$
+---
 ![subwork_colddrip](pics/subwork_colddrip.jpg)
 
 > picture of good looking goatstory dripper in sunlight 
@@ -31,7 +31,7 @@ premium objects in space
   - we don't like back-pain either
 - ultra-fast [optic fibre gigabit Internet](https://www.speedtest.net/result/14865031954)
   - downloading big LLM models for your AI startup or syncing big blockchain?
-  - industry standard Wi-Fi 6 (802.11ax) coverage by Ubiquiti 
+  - industry standard Wi-Fi 6 (_802.11ax_) coverage by Ubiquiti 
 - podcasting equipment
   - for your new video episodes
   - [two studio high-performance gamer microphones](https://hyperx.com/products/hyperx-quadcast-s-usb-microphone?variant=41031692058781)
