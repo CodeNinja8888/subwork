@@ -18,7 +18,7 @@ type of areas we have in SubWork
 ![fix_desk_in_subwork](pics/subwork_flexdesk.jpeg)
 
 premium objects in space
----
+---$$
 ![subwork_colddrip](pics/subwork_colddrip.jpg)
 
 > picture of good looking goatstory dripper in sunlight 
@@ -26,12 +26,12 @@ premium objects in space
 - lot of plants 
   - over 30 and counting
 - 4K 32" USB-C monitors 
-  - plenty screen real estate for your grind and gpt outputs
+  - plenty screen real estate for your grind and GPT outputs
 - standing desk
   - we don't like back-pain either
-- ultra-fast optic fibre gigabit Internet
+- ultra-fast [optic fibre gigabit Internet](https://www.speedtest.net/result/14865031954)
   - downloading big LLM models for your AI startup or syncing big blockchain?
-  - industry standard wi-fi coverage by Ubiquiti
+  - industry standard Wi-Fi 6 (802.11ax) coverage by Ubiquiti 
 - podcasting equipment
   - for your new video episodes
   - [two studio high-performance gamer microphones](https://hyperx.com/products/hyperx-quadcast-s-usb-microphone?variant=41031692058781)
@@ -52,7 +52,6 @@ community social events on regular basis
 ![subwork_breakfast](pics/subwork_breakfast.jpg)
 
 > we had lot of public breakfast in past with local friends
-
 
 ![subwork_miniconf](pics/subwork_miniconf.png)
 

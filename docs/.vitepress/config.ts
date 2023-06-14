@@ -101,14 +101,22 @@ export default defineConfig({
         ]
       },
       {
-        text: 'accommodation & transportation',
+        text: 'accommodation',
         collapsed: true,
         items: [
           { text: 'location of SubWork', link: '/location-of-subwork' },
           { text: 'accomodation', link: '/hotels-hostels-in-bled' },
+          { text: 'coliving in bled', link: '/coliving-in-bled' },
+          { text: 'long term stay in bled', link: '/long-term-stay-in-bled' },
+        ]
+      },
+      {
+        text: 'transportation',
+        collapsed: true,
+        items: [
+          { text: 'location of SubWork', link: '/location-of-subwork' },
           { text: 'transportation', link: '/transportation-to-subwork-bled-slovenia' },
           { text: 'coming by car', link: '/coming-by-car-to-subwork-bled' },
-          { text: 'long term stay in bled', link: '/long-term-stay-in-bled' },
         ]
       },
       {
@@ -117,6 +125,14 @@ export default defineConfig({
         items: [
           { text: 'governance', link: '/rules-for-coworkers'},
           { text: 'booking desk and meeting room', link: '/booking-desk-and-meeting-room-in-subwork' },
+        ]
+      },
+      {
+        text: 'community',
+        collapsed: true,
+        items: [
+          { text: 'events', link: '/events-in-subwork' },
+          { text: 'writings', link: '/they-wrote-about-subwork' },
         ]
       }
     ],
