@@ -36,3 +36,7 @@ Airbnb can be a great option if you're looking for a home-away-from-home experie
 1. [Apartments in Bled](https://www.airbnb.com/Bled-Slovenia/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes)
 2. [Houses in Bled](https://www.airbnb.com/s/Bled--Slovenia/homes?property_type_id%5B%5D=2)
 3. [Unique stays in Bled](https://www.airbnb.com/s/Bled--Slovenia/homes?property_type_id%5B%5D=12)
+
+## Friendly apartments
+
+There is chance to get better deals and closest to SubWork is [Apartments Gaja](https://goo.gl/maps/xaQfnji6TjHCpEkb8) where our guests are staying for good price. Feel free to call them at +38664207778 and say you are staying at SubWork in Blejski Trgovski Center.
