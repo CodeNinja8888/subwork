@@ -19,18 +19,17 @@ type of areas we have in SubWork
 
 premium objects in space
 ---
-![subwork_colddrip](pics/subwork_colddrip.jpg)
-
-> picture of good looking goatstory dripper in sunlight 
 
 - lot of plants 
   - over 30 and counting
 - 4K 32" USB-C monitors 
-  - plenty screen real estate for your grind and GPT outputs
+  - plenty screen real estate for your grind 
+  - you need to see beautiful GPT output
+  - red and green candles of meme coins
 - standing desk
   - we don't like back-pain either
-- ultra-fast [optic fibre gigabit Internet](https://www.speedtest.net/result/14865031954)
-  - downloading big LLM models for your AI startup or syncing big blockchain?
+- ultra-fast [optic fibre gigabit Internet](https://www.speedtest.net/result/14870089320)
+  - do you need to download big LLM models for your AI startup or sync big L2 blockchain?
   - industry standard Wi-Fi 6 (_802.11ax_) coverage by Ubiquiti 
 - podcasting equipment
   - for your new video episodes
@@ -41,6 +40,8 @@ premium objects in space
   - are you feeling sporty and want finish your morning workout in SubWork? We've got shower in space!
   - want some shower thoughts before entering into deep work focus window?
 
+![subwork_colddrip](pics/subwork_colddrip.jpg)
+> picture of good looking goatstory dripper in sunlight 
 
 community social events on regular basis
 ---
@@ -58,19 +59,21 @@ community social events on regular basis
 
 > casual wine & drinks after meeetups
 
+![event_polkadot_miniconf](pics/event_polkadot_miniconf.png)
+> polkadot mini conference at bled
+
 micro gym in coworking space
 ---
-![subwork_rowing](pics/subwork_rowing.jpg)
 
 we feel sporty everyday and to keep up our development pace fast. We will help to build athletic mentality.
 - pull-up bar 
 - [WaterRower Rowing Machine](https://www.nohrd.com/us/waterrower/)
 - [Abdominal Trainer, Back Extension Bench and Weight Bench](https://www.nohrd.com/us/triatrainer/)
 
+![subwork_rowing](pics/subwork_rowing.jpg)
+
 flexible
 ---
-
-> statsh of bikes 
 
 - on-site support 
   - your code doesn't build? We have experts in Rust, Typescript, Vue, Substrate, Solidity
@@ -81,10 +84,13 @@ flexible
 - air-conditioning
   - right working temperature
 
+![espresso_tonic](pics/espresso_tonic.png)
+> stash of bikes 
+
 drinks 
 ---
 
-![subwork_coldbrew](pics/subwork_coldbrew.jpg)
+
 
 > picture of cold brew 
 > picture of very cold club mate, imagine.
@@ -99,8 +105,9 @@ drinks
   - have closed seed-round and you need some chill?
 - tea and matcha
 
+![subwork_coldbrew](pics/subwork_coldbrew.jpg)
 
-![espresso_tonic](pics/espresso_tonic.png)
+
 
 services
 ---

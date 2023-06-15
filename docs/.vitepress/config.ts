@@ -2,6 +2,7 @@ import { createWriteStream } from 'node:fs'
 import { resolve } from 'node:path'
 import { SitemapStream } from 'sitemap'
 import { defineConfig } from 'vitepress'
+import { ViteImageOptimizer } from 'vite-plugin-image-optimizer';
 
 const links = []
 
@@ -67,7 +68,6 @@ export default defineConfig({
       { text: 'telegram', link: 'https://t.me/+VoZsr7MEds84ZjQ0' },
       { text: 'leave us review', link: 'https://g.page/r/CWs7EEKFN9-zEBE/review' }
     ],
-
     sidebar: [
       {
         text: 'web3 coworking space',
@@ -138,7 +138,6 @@ export default defineConfig({
         ]
       }
     ],
-
     socialLinks: [
       { icon: 'twitter', link: 'https://twitter.com/subworkbled' },
       { icon: {
