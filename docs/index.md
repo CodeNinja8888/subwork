@@ -22,7 +22,6 @@ head:
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
-
 hero:
   name: "SubWork - web3 cowork space"
   text: "minimum viable community in Julian Alps"
