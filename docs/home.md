@@ -2,16 +2,16 @@
 head:
   - - meta
     - property: og:type
-    - content: website
+      content: website
   - - meta
     - property: og:title
       content: SubWork - coworking in nature
   - - meta
     - property: og:image
-    - content: https://vitejs.dev/og-image-announcing-vite3.png
+      content: https://vitejs.dev/og-image-announcing-vite3.png
   - - meta
     - property: og:url
-      content: https://subwork.xyz
+      content: https://vitejs.dev/blog/announcing-vite3
   - - meta
     - property: og:description
       content: Beautiful coworking space in nature of Julian Alps in Bled, Slovenia
