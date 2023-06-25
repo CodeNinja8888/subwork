@@ -13,8 +13,8 @@ head:
     - property: og:description
       content: Beautiful coworking in nature of Julian Alps in Slovenia
   - - meta
-    - property: 'og:image'
-    - content: https://www.subwork.xyz/subwork_logo_1.jpg
+    - property: og:image
+    - content: https://subwork.xyz/subwork_logo_1.jpg'
   - - meta
     - property: og:url
       content: https://subwork.xyz
