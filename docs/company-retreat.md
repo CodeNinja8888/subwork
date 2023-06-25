@@ -1,4 +1,4 @@
-## Company retreats
+## Company retreat for team building at Bled
 
 ![bled_company_retreat](./pics/bled_company_retreat.png)
 
@@ -9,9 +9,14 @@ We are your perfect place to be!
 Testimonials from web3 companies who appreciated staying at SubWork
 ---
 - [Apillon](https://apillon.io/) - Slovenian web3 company bringing web2 experience for developers 
-- [KodaDot](https://kodadot.xyz) - One Stop Shop for Polkadot NFTs and [number one dapp in Polkadot ecosystem by Github](https://github.com/topics/polkadot?o=desc&s=forks)
+- [KodaDot](https://kodadot.xyz) - Go To Polkadot NFT marketplace and [number one dapp in Polkadot ecosystem by Github](https://github.com/topics/polkadot?o=desc&s=forks)
 - [Basilisk](https://bsx.fi/) - Basilisk brings permissionless liquidity to Kusama.
 - [HydraDX](https://hydradx.io/) - An Ocean of Liquidity for Polkadot   
+
+Held retreats on Bled
+---
+- [Oasis Network](https://twitter.com/OasisProtocol/status/1668298511295856640) - the Oasis team traveled from around the globe for our company retreat in Bled, Slovenia.
+- [MakerDAO](https://makerdao.com/en/)
 
 ![bovec](./pics/bovec.png)
 
