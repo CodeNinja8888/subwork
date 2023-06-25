@@ -4,8 +4,23 @@ layout: home
 
 head: 
   - - meta
+    - property: og:type
+    - content: website
+  - - meta
+    - property: og:title
+      content: SubWork - coworking in nature
+  - - meta
+    - property: og:description
+      content: Beautiful coworking in nature of Julian Alps in Slovenia
+  - - meta
     - property: 'og:image'
-    - content: https://www.subwork.xyz/subwork_hero.png
+    - content: https://www.subwork.xyz/subwork_logo_1.jpg
+  - - meta
+    - property: og:url
+      content: https://subwork.xyz
+  - - meta
+    - name: twitter:card
+      content: summary_large_image
 
 hero:
   name: "SubWork - web3 cowork space"
