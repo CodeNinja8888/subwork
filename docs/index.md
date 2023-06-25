@@ -1,7 +1,4 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
-layout: home
-
 head: 
   - - meta
     - property: og:type
@@ -21,6 +18,10 @@ head:
   - - meta
     - name: twitter:card
       content: summary_large_image
+
+# https://vitepress.dev/reference/default-theme-home-page
+layout: home
+
 
 hero:
   name: "SubWork - web3 cowork space"

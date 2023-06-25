@@ -1,3 +1,25 @@
+---
+head:
+  - - meta
+    - property: og:type
+      content: website
+  - - meta
+    - property: og:title
+      content: SubWork - coworking in nature
+  - - meta
+    - property: og:image
+      content: https://subwork.xyz/subwork_header.png
+  - - meta
+    - property: og:url
+      content: https://subwork.xyz
+  - - meta
+    - property: og:description
+      content: Beautiful coworking space in nature of Julian Alps in Bled, Slovenia
+  - - meta
+    - name: twitter:card
+      content: summary_large_image
+---
+
 Reach out to SubWork for your visit 🤙
 ---
 - Are you curious? Come to ask a questions!
