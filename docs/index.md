@@ -2,6 +2,11 @@
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
+head: 
+  - - meta
+    - property: 'og:image'
+    - content: https://www.subwork.xyz/subwork_hero.png
+
 hero:
   name: "SubWork - web3 cowork space"
   text: "minimum viable community in Julian Alps"
