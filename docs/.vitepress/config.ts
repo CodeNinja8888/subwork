@@ -53,7 +53,8 @@ export default defineConfig({
     ]
   ],
   lastUpdated: true,
-  titleTemplate: ':title - Subwork - coworking in nature',
+  title: 'SubWork', // remove to use :title when using <h1> on each page, but change all pages
+  titleTemplate: ':title - coworking in nature',
   description: 'Minimum Viable Community in Julian Alps',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
