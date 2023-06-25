@@ -2,19 +2,19 @@
 head:
   - - meta
     - property: og:type
-      content: website
+    - content: website
   - - meta
     - property: og:title
-      content: Announcing Vite 3
+      content: SubWork - coworking in nature
   - - meta
     - property: og:image
-      content: https://vitejs.dev/og-image-announcing-vite3.png
+    - content: https://subwork.xyz/subwork_logo_1.jpg
   - - meta
     - property: og:url
-      content: https://vitejs.dev/blog/announcing-vite3
+      content: https://subwork.xyz
   - - meta
     - property: og:description
-      content: Vite 3 Release Announcement
+      content: Beautiful coworking space in nature of Julian Alps in Bled, Slovenia
   - - meta
     - name: twitter:card
       content: summary_large_image
