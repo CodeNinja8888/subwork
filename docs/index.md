@@ -19,7 +19,6 @@ head:
     - name: twitter:card
       content: summary_large_image
 
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
@@ -52,25 +51,27 @@ hero:
       text: surroundings
       link: /surroundings
 
-
-
 features:
   - icon: 🏔️
     title: slovenia is most crypto friendly destination in Europe
     details: one of foundational reason having SubWork are that Slovenia is home of BTC City, Bitstamp and Elly PoS.
     link: /why-did-we-choose-bled
+    linkText: why Slovenia?
   - icon: 🏞️
     title: superior weather all year long
     details: beautiful cloudless winter and not so hot summer makes SubWork perfect destination for your long-term stay focusing on your productivity.
-    link: /why-did-we-choose-bled
+    link: /home
+    linkText: coworking space
   - icon: 🧘
     title: wellbeing-first
     details: you always want to focus on your wellbeing and growth while staying sharp focused on your delivery? We are your choice!
-    link: /why-did-we-choose-bled
+    link: /sports-activities-around-bled
+    linkText: sport activities 
   - icon: ☀️
     title: optimal amount of sunshine hours
     details: bled has average annual amount of 2455 sunshine hours, which guarantee your superior mood and processing power.
     link: /why-did-we-choose-bled
+    linkText: tell me more
 ---
 
 <br>
