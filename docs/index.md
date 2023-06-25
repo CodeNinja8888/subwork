@@ -11,7 +11,7 @@ head:
       content: SubWork - coworking in nature
   - - meta
     - property: og:image
-    - content: https://vitejs.dev/og-image-announcing-vite3.png
+    - content: https://subwork.xyz/subwork_header_jungle_logo.png
   - - meta
     - property: og:url
       content: https://subwork.xyz
