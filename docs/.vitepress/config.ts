@@ -46,9 +46,17 @@ export default defineConfig({
   //     ]
   //   }
   // },
+  head: [
+    [
+      'meta',
+      { property: 'og:image', content: 'https://subwork.xyz/subwork_header_jungle_logo.png'}
+    ]
+  ],
+
   lastUpdated: true,
-  title: "Subwork",
-  description: "Minimum Viable Community in Julian Alps",
+  title: 'Subwork',
+  titleTemplate: ':title - coworking in nature',
+  description: 'Minimum Viable Community in Julian Alps',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     search: {
