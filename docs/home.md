@@ -1,3 +1,25 @@
+---
+head:
+  - - meta
+    - property: og:type
+      content: website
+  - - meta
+    - property: og:title
+      content: Announcing Vite 3
+  - - meta
+    - property: og:image
+      content: https://vitejs.dev/og-image-announcing-vite3.png
+  - - meta
+    - property: og:url
+      content: https://vitejs.dev/blog/announcing-vite3
+  - - meta
+    - property: og:description
+      content: Vite 3 Release Announcement
+  - - meta
+    - name: twitter:card
+      content: summary_large_image
+---
+
 # crypto coworking space in Bled, Slovenia <Badge type="warning" text="beta" />
 
 ![lake bled](pics/subwork_hero.png)
