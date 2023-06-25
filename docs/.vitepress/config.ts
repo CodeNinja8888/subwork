@@ -132,8 +132,9 @@ export default defineConfig({
         text: 'community',
         collapsed: true,
         items: [
-          { text: 'contribute', link: '/contribute-and-improve-subwork'},
+          { text: 'contribute', link: '/contribute-and-improve-subwork' },
           { text: 'events', link: '/events-in-subwork' },
+          { text: 'triathlon', link: '/training-for-triathlon' },
           { text: 'writings', link: '/writings-about-subwork' },
         ]
       }
