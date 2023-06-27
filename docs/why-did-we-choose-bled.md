@@ -3,7 +3,7 @@
 ![karawanke_mountains](pics/karawanke_mountains.png)
 
 - Bled has superior **air-quality and nature equanimity** with lots of hike opportunities close to mountains around. Existing in nature helps you to **faster recharge and recover** your mental wellbeing, especially after exhaustive hackathons and conferences.
-- It's not overcrowded place to live, it's silent and calm, Bled is small village with approximately 2000 citizens.
+- It's **not overcrowded place to live**, it's silent and calm, Bled is small village with approximately 2000 citizens.
 - lot of options of [sport activities to do](./sports-activities-around-bled.md) to grow your body and soul.
 - Bled has amazing medieval [history](https://en.wikipedia.org/wiki/Bled), which we highly reccomend to read.
 - [yangwao](https://twitter.com/yangwao) been living in Bled since October 2021 and found it pretty well balanced place for wellbeing, with close reach to Ljubljana, Austrian Mountains, Italian Dolomites and sea side of Croatian-Italian Istrija.
@@ -38,3 +38,7 @@ European hotspot for camping
 Meaningful Internet-first community
 ---
 - Building from scratch among web3 builders who are aligned with same values, they decided to build next unicorn, found power being alone and not being influenced by peers in city, yet highly autonomous individiuals and wild enough.
+
+Digital Nation - Network State 
+---
+Have you heard about [The Network State](https://thenetworkstate.com/) right? It's Balaji stunt and we reccomend learn more about where Startup cities are going. Check [Network State Dashboard](https://thenetworkstate.com/dashboard) for more blooming Internet-first communities around world as we are not only one crazy here. Listen podcast with [Balaji Srinivasan about The Network State](https://www.youtube.com/watch?v=8rWIsc34N9Y). Few [writings](https://www.protocol.com/policy/srinivasan-network-state) and [recordings](https://foresight.org/summary/balaji-s-srinivasan-the-network-state/)

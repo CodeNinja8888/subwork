@@ -21,31 +21,33 @@ premium objects in space
 ---
 
 - lot of plants 
-  - over 30 and counting
-- 4K 32" USB-C monitors 
+  - over 30+
+  - feels like in jungle 🌿
+- **4K 32" USB-C monitors** 
   - plenty screen real estate for your grind 
   - you need to see beautiful GPT output
   - red and green candles of meme coins
 - standing desk
   - we don't like back-pain either
-- ultra-fast [optic fibre gigabit Internet](https://www.speedtest.net/result/14870089320)
+- **ultra-fast [optic fibre gigabit Internet](https://www.speedtest.net/result/14919299140)**
   - do you need to download big LLM models for your AI startup or sync big L2 blockchain?
   - industry standard Wi-Fi 6 (_802.11ax_) coverage by Ubiquiti 
-- podcasting equipment
-  - for your new video episodes
+- podcast equipment
+  - ready for your new video episodes
   - [two studio high-performance gamer microphones](https://hyperx.com/products/hyperx-quadcast-s-usb-microphone?variant=41031692058781)
   - [streamcam w/ 1080p AF](https://www.logitech.com/en-ch/products/webcams/streamcam.960-001281.html)
   - ring lights
 - shower
-  - are you feeling sporty and want finish your morning workout in SubWork? We've got shower in space!
-  - want some shower thoughts before entering into deep work focus window?
+  - are you feeling sporty and do you want finish your morning workout in SubWork? We've got shower in space!
+  - shower thoughts before you enter into deep work focus window?
 
 ![subwork_colddrip](pics/subwork_colddrip.jpg)
 > picture of good looking goatstory dripper in sunlight 
 
 community social events on regular basis
 ---
-- We are organizing events on infrequent basis, we reccomend you better [subscribe to our Meetup group](https://www.meetup.com/subwork/) to be informed ahead.
+- we are organizing events on infrequent basis
+- we reccomend you to [subscribe to our SubWork Meetup group](https://www.meetup.com/subwork/) to be informed ahead.
 - 📖 [learn more about events](./events-in-subwork.md)
 
 ![subwork_crypto_meetup](pics/subwork_meetup.png)
