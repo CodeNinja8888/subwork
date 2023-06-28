@@ -34,11 +34,11 @@ is free to use, have a glass water or if you are familiar with speciality gear, 
 
 Are you thirsty? 
 ---
-We have refrigerated beverages like Club-Mate, Club-Mate Cola, non-alcoholic beer and other drinks depends on availability for you in fridge in the space. On the fridge is self-service terminal, where you can tap it and enter amount, current usual price is flat 2€ to support space and operations. 
+We have refrigerated beverages like Club-Mate, Club-Mate Cola, non-alcoholic beer and other drinks depends on availability for you in fridge in the space. **On the fridge is self-service terminal. You can press button from right side of it and enter amount tp pay. Current usual price is flat 2€ to support space and operations.**
 
 Rules
 ---
-Respect fair usage policy and [have a read of our rules of space](./rules-for-coworkers.md), if you are great nomad, we've bet you already know them all and well behaved person.
+Respect fair usage policy and [have a read of our rules of space](./rules-for-coworkers.md), if you are great digital nomad, we've bet you already know them all and well behaved person.
 
 
 Want to come and no-one is around?

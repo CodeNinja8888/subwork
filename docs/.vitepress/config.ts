@@ -90,6 +90,7 @@ export default defineConfig({
         text: 'what can I do in Bled?',
         collapsed: true,
         items: [
+          { text: 'bike trail bled-bohinj', link: '/bled-bohinj-bike-trail' },
           { text: 'mountain peaks and cabins', link: '/mountain-peaks-and-alpine-cabins' },
           { text: 'standup paddle & canoe', link: '/rent-standup-paddle-in-bled-bohinj' },
           { text: 'sport activities', link: '/sports-activities-around-bled' },
