@@ -141,6 +141,7 @@ export default defineConfig({
         items: [
           { text: 'contribute', link: '/contribute-and-improve-subwork' },
           { text: 'events', link: '/events-in-subwork' },
+          { text: 'fellowship', link: '/subwork-fellowship' },
           { text: 'triathlon', link: '/training-for-triathlon' },
           { text: 'partner with SubWork', link: '/partner-with-coworking-space-subwork'},
           { text: 'writings', link: '/writings-about-subwork' },
