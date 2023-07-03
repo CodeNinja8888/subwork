@@ -42,8 +42,12 @@ Reach out to SubWork for your visit 🤙
 
 ⭐️ Leave Us Review
 ---
-- [Have you been at our place recently? We would love to have your review!](https://g.page/r/CWs7EEKFN9-zEBM/review)
-- [Please share your review to let others know about this amazing coworking in nature](https://g.page/r/CWs7EEKFN9-zEBM/review)
+Have you been to our place recently? We would love to have your five-star review! Please share your review to inform others about this fantastic coworking in nature.
+
+- [Five-star review on Google Maps](https://g.page/r/CWs7EEKFN9-zEBM/review)
+- [Coworker Review](https://www.coworker.com/slovenia/bled/subwork)
+- [CoworkBooking Review](https://www.coworkbooking.com/europe/slovenia/subwork)
+- [CoworkMaps Tags](https://coworkmaps.com/city/bled)
 
 🧾 Invoice
 ---
