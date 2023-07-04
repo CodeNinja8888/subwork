@@ -39,6 +39,10 @@ Meaningful Internet-first community
 ---
 - Building from scratch among web3 builders who are aligned with same values, they decided to build next unicorn, found power being alone and not being influenced by peers in city, yet highly autonomous individiuals and wild enough.
 
+Why we choosed Slovenia?
+---
+Slovenia is most crypto friendly destination in Europe. This was one of foundational reason why choosed Slovenia. Because is home of [Apillon](https://apillon.io/), [BlockAnalitica](https://blockanalitica.com/), [Bitstamp](https://www.bitstamp.net/), [BTC City](https://www.btc.si/btc-city/), [GoCrypto PoS](https://gocrypto.com/), [Iconomi](https://www.iconomi.com/) and [Punk Domains](https://punk.domains/). Cherry on top, Slovenia has [First Blockchain monument in the world - Bitcoin roundabout](https://goo.gl/maps/y2p4jfZPc8vr6Deq6)
+
 Digital Nation - Network State 
 ---
 Have you heard about [The Network State](https://thenetworkstate.com/) right? It's Balaji stunt and we reccomend learn more about where Startup cities are going. Check [Network State Dashboard](https://thenetworkstate.com/dashboard) for more blooming Internet-first communities around world as we are not only one crazy here. Listen podcast with [Balaji Srinivasan about The Network State](https://www.youtube.com/watch?v=8rWIsc34N9Y). Few [writings](https://www.protocol.com/policy/srinivasan-network-state) and [recordings](https://foresight.org/summary/balaji-s-srinivasan-the-network-state/)
