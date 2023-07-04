@@ -2,6 +2,14 @@
 
 [web3 coworking in nature, located at Julian Alps, Bled, Slovenia](https://subwork.xyz)
 
+Socials
+---
+We appreciate it if you follow us and **spread the word**! 
+- [LinkedIn](https://www.linkedin.com/company/subwork/)
+- [Twitter](https://twitter.com/subworkbled)
+- [Telegram](https://t.me/+VoZsr7MEds84ZjQ0)
+- [Meetup](https://meetup.com/subwork)
+
 ![SubWork](docs/public/subwork_header_jungle_description.png)
 
 Getting started

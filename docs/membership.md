@@ -21,7 +21,7 @@ Coming to Slovenia to enjoy your stay for sport activity, relax and you need pla
 - Available desk in space
 - Enjoy insider experience
 - You can participate on regular breakfasts organized by members
-- 60€ / week
+- 70€ / week
 
 ![subwork_hacker_corner](pics/subwork_hacker_zoom.png)
 
@@ -79,12 +79,14 @@ pricing tl;dr
 
 | Tier | Capacity | Unit price € | 
 | --- | --- | --- | 
-| Daypass | 20 | Google Maps Review | 1 
-| Weekpass | 20 | 60 
-| Bi-week pass | 20 | 100 | 
+| First Try | 20 | Google Maps & Coworker Review  
+| Daypass | 20 | 20 
+| Weekpass | 20 | 70 
+| Bi-week pass | 20 | 120 
 | Flex Desk | 6 | 200 
 | Fix Desk | 4 | 300 
 | Meeting Room Kusama | 1 |  50/h 
 | Meeting Room Polkadot | 1 | 50/h
 | Rent Venue day | 1 | 500
 | Rent Venue evening | 1 | 300/3h
+| Private Office | 1 | 1200/mo
