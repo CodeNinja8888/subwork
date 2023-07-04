@@ -41,7 +41,14 @@ Meaningful Internet-first community
 
 Why we choosed Slovenia?
 ---
-Slovenia is most crypto friendly destination in Europe. This was one of foundational reason why choosed Slovenia. Because is home of [Apillon](https://apillon.io/), [BlockAnalitica](https://blockanalitica.com/), [Bitstamp](https://www.bitstamp.net/), [BTC City](https://www.btc.si/btc-city/), [GoCrypto PoS](https://gocrypto.com/), [Iconomi](https://www.iconomi.com/), [OriginTrail](https://origintrail.io/) and [Punk Domains](https://punk.domains/). Cherry on top, Slovenia has [First Blockchain monument in the world - Bitcoin roundabout](https://goo.gl/maps/y2p4jfZPc8vr6Deq6)
+Slovenia is most crypto friendly destination in Europe. This was one of foundational reason why choosed Slovenia. Because is home of [Apillon](https://apillon.io/), [BlockAnalitica](https://blockanalitica.com/), [Bitstamp](https://www.bitstamp.net/), [BTC City](https://www.btc.si/btc-city/), [GoCrypto PoS](https://gocrypto.com/), [Iconomi](https://www.iconomi.com/), [OriginTrail](https://origintrail.io/) and [Punk Domains](https://punk.domains/). Cherry on top, Slovenia has [First Blockchain monument in the world - Bitcoin roundabout](https://goo.gl/maps/y2p4jfZPc8vr6Deq6).
+
+Rich Crypto Art culture
+---
+We've got "BTC City", which has [prank story behind.](https://www.total-slovenia-news.com/lifestyle/704-fake-guardian-page-promotes-ljubljana-s-btc-city-as-bitcoin-city), [1](http://artur.zekcrew.com/projects/fake-good-news-s01e02/).
+The [Miha Artnak, a Slovenian artist](https://docs.google.com/document/d/1vJw2Uhh4Qugvt0ww_UMp3mLEAjIte-bwdVyVCOPMQLY/edit), directed us to an earlier, similar piece on a painting made of dove droppings [selling for $1.2 million](http://www.theguadrain.com/artanddesign/2017/nov/12/new-era-in-art), as shown below.
+[Cream Cake NFT - famous Bled cake on OpenSea](https://opensea.io/collection/creamcake), [collection item on OS](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/109023187301112081302016179240783394102275718188979229365375990574180986782695)
+
 
 Digital Nation - Network State 
 ---

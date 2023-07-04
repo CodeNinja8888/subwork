@@ -22,7 +22,7 @@ hero:
 features:
   - icon: 🏔️
     title: Slovenia is most crypto friendly destination in Europe
-    details: one of foundational reason why Slovenia, because is home of Apillon, BlockAnalitica, Bitstamp, BTC City, GoCrypto PoS, Iconomi, Punk Domains and many more.
+    details: one of foundational reason why Slovenia, because is home of Apillon, BlockAnalitica, Bitstamp, GoCrypto PoS, Iconomi, OriginTrail, Punk Domains and many more.
     link: /why-did-we-choose-bled
     linkText: why Slovenia?
   - icon: 🏞️
