@@ -41,7 +41,7 @@ Meaningful Internet-first community
 
 Why we choosed Slovenia?
 ---
-Slovenia is most crypto friendly destination in Europe. This was one of foundational reason why choosed Slovenia. Because is home of [Apillon](https://apillon.io/), [BlockAnalitica](https://blockanalitica.com/), [Bitstamp](https://www.bitstamp.net/), [BTC City](https://www.btc.si/btc-city/), [GoCrypto PoS](https://gocrypto.com/), [Iconomi](https://www.iconomi.com/) and [Punk Domains](https://punk.domains/). Cherry on top, Slovenia has [First Blockchain monument in the world - Bitcoin roundabout](https://goo.gl/maps/y2p4jfZPc8vr6Deq6)
+Slovenia is most crypto friendly destination in Europe. This was one of foundational reason why choosed Slovenia. Because is home of [Apillon](https://apillon.io/), [BlockAnalitica](https://blockanalitica.com/), [Bitstamp](https://www.bitstamp.net/), [BTC City](https://www.btc.si/btc-city/), [GoCrypto PoS](https://gocrypto.com/), [Iconomi](https://www.iconomi.com/), [OriginTrail](https://origintrail.io/) and [Punk Domains](https://punk.domains/). Cherry on top, Slovenia has [First Blockchain monument in the world - Bitcoin roundabout](https://goo.gl/maps/y2p4jfZPc8vr6Deq6)
 
 Digital Nation - Network State 
 ---
