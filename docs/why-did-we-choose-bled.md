@@ -53,3 +53,7 @@ The [Miha Artnak, a Slovenian artist](https://docs.google.com/document/d/1vJw2Uh
 Digital Nation - Network State 
 ---
 Have you heard about [The Network State](https://thenetworkstate.com/) right? It's Balaji stunt and we reccomend learn more about where Startup cities are going. Check [Network State Dashboard](https://thenetworkstate.com/dashboard) for more blooming Internet-first communities around world as we are not only one crazy here. Listen podcast with [Balaji Srinivasan about The Network State](https://www.youtube.com/watch?v=8rWIsc34N9Y). Few [writings](https://www.protocol.com/policy/srinivasan-network-state) and [recordings](https://foresight.org/summary/balaji-s-srinivasan-the-network-state/)
+
+Bled is most expensive part of Slovenia
+---
+Yes, we are pretty aware of this and we believe that price range filters out noise people. It's sort of economical mechanism to filter out valuable talent from noise. We believe that **space should be dedicated for grinders and those who want to deliver on day one.** In same fashion we help talents to bloom through [our SubWork Fellowship program](./subwork-fellowship.md), if they can't afford to come. Same apply if you are coming from various under represented minority.
