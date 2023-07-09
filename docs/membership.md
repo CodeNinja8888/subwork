@@ -69,6 +69,8 @@ payment options
 We accept payment by credit card in space, cryptocurrencies via partners and wire transfers. 
 However we love untracable cash, we don't hold it in space and we can't give you change.
 
+[📖 Learn how to pay for membership](./payment-options.md)
+
 
 invoicing
 ---

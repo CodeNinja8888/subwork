@@ -48,6 +48,9 @@ export default defineConfig({
   // },
   head: [
     [
+      'script', { src: 'https://gateway.sumup.com/gateway/ecom/card/v2/sdk.js'}
+    ],
+    [
       'meta',
       { property: 'og:type', content: 'website'}
     ],
@@ -97,13 +100,13 @@ export default defineConfig({
     ],
     sidebar: [
       {
-        text: 'web3 coworking space',
+        text: 'web3 charter city',
         items: [
           { text: 'contact', link: '/contact' },
-          { text: 'amenities', link: '/amenities-in-coworking-space' },
           { text: 'why Bled', link: '/why-did-we-choose-bled' },
           { text: 'who we are', link: '/who-we-are' },
           { text: 'building up space', link: '/building-up-space' },
+          { text: 'scalability vision charter city', link: '/scalability-vision-to-be-charter-city' },
         ],
       },
       {
@@ -121,6 +124,7 @@ export default defineConfig({
         text: 'coworkers',
         collapsed: true,
         items: [
+          { text: 'amenities', link: '/amenities-in-coworking-space' },
           { text: 'company retreat', link: '/company-retreat' },
           { text: 'family members', link: '/family-members-in-subwork' },
           { text: 'meeting rooms', link: '/book-meeting-room-bled' },

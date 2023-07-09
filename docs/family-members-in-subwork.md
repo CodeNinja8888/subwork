@@ -56,6 +56,14 @@ const members = [
       { icon: 'twitter', link: 'https://twitter.com/cl0w5' }
     ]
   },
+  {
+    avatar: 'https://media.licdn.com/dms/image/C5603AQF8i6QJl65uPQ/profile-displayphoto-shrink_200_200/0/1552414176327?e=1694649600&v=beta&t=wPjLAWbtC9ZXWFPKMo4gZ1MsNLalKG-p6R1r_rnNQBU',
+    name: 'vito',
+    title: 'trading stocks',
+    links: [
+      { icon: 'linkedin', link: 'https://linkedin.com/in/vitohrzenjak' }
+    ]
+  },
 ]
 </script>
 
