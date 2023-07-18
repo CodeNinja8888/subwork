@@ -40,6 +40,7 @@ premium objects in space
 - shower
   - are you feeling sporty and do you want finish your morning workout in SubWork? We've got shower in space!
   - shower thoughts before you enter into deep work focus window?
+- [specialty coffee equipment](./specialty-coffee-in-bled.md)
 
 ![subwork_colddrip](pics/subwork_colddrip.jpg)
 > picture of good looking goatstory dripper in sunlight 
@@ -97,7 +98,7 @@ drinks
 > picture of cold brew 
 > picture of very cold club mate, imagine.
 
-- speciality coffee bean bags
+- we have [lot of speciality coffee gear and bean bags](./specialty-coffee-in-bled.md)
   - equipment like frenchpress and commandante grinder
 - club-Mate
   - we love berlin style

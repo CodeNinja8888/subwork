@@ -167,6 +167,7 @@ export default defineConfig({
           { text: 'events', link: '/events-in-subwork' },
           { text: 'fellowship', link: '/subwork-fellowship' },
           { text: 'triathlon', link: '/training-for-triathlon' },
+          { text: 'specialty coffee gear', link: '/specialty-coffee-in-bled'},
           { text: 'partner with SubWork', link: '/partner-with-coworking-space-subwork'},
           { text: 'writings', link: '/writings-about-subwork' },
         ]
