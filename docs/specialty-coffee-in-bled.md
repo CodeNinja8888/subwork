@@ -2,6 +2,8 @@
 
 Specialty coffee refers to the highest grade of coffee available, produced in special micro-climates and meeting certain quality standards. It is part of the third wave of coffee, which emphasizes exceptional quality in both farming and brewing. Specialty coffee is typically grown in South and Central Americas, Asia, and Africa. It is characterized by its exceptional taste, aroma, and unique flavor profiles. The Specialty Coffee Association (SCA) sets standards for specialty coffee production, including allowable defects and water standards. There is also a growing movement to include environmental and social indicators in the definition and grading of specialty coffee. The demand for specialty coffee is increasing worldwide, with a rise in independent cafes and specialty coffee shops.
 
+![espresso_tonic](./pics/specialty_coffee_espresso_tonic.png)
+
 ## Specialty Coffee at SubWork
 We are lovers of specialty coffee. Proof is that's we have few dozens of specialty tooling things around! 
 
