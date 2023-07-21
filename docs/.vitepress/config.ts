@@ -88,8 +88,9 @@ export default defineConfig({
       pattern: 'https://github.com/kodadot/subwork/edit/main/docs/:path'
     },
     footer: {
-      message: 'VitePress generated at SubWork, some pictures from Unsplash',
-      copyright: 'Copyright © 2023-present SubWork membas'
+      message: 'VitePress content crafted at SubWork. <a href="https://shop.kodadot.xyz/p/subwork-t-shirt/-coworkinginnature/">$50 reward for first 30 attentive readers</a>',
+      copyright: 'Copyright © 2023-present by SubWork members. Some pictures from Unsplash.',
+      url: 'https://shop.kodadot.xyz/p/subwork-t-shirt/-coworkinginnature/'
     },
     nav: [
       { text: 'SubWork', link: '/' },
