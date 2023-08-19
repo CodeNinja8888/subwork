@@ -78,9 +78,11 @@ We are thinking to start last week of September, no hard dates, probably around 
 
 What is SubWork Fellowship?
 ---
-It's unique experience set in beautiful nature of Bled, located in SubWork. Where daily grind will happen and we will have few workshops going on daily  basis preferably to chat and discuss. Weekly basis included with outdoor programme to foster relationships with some adventures, i.e. cold plunges, long-range hikes, ebike rides around local mountains to enjoy scenic views
+It's unique experience set in beautiful nature of Bled, located in SubWork. Where daily grind will happen and we will have few workshops going on daily basis preferably to chat, discuss and elaborate on disrupting topics. Weekly basis included with outdoor programme to foster relationships with some adventures, i.e. cold plunges, bathing in lakes, long-range hikes, ebike rides around local mountains to enjoy scenic views and all that activities you can do in surroundings.
 
-We will work on your wellbeing, healthy routines, delivery of code, iteration of idea you have and ways how you can be funded. 
+We will work on your wellbeing, healthy routines, delivery of code, iteration of idea you have and ways how you can be funded.
+
+We believe SubWork Fellowship will be social building block of more broader vision of SubWork for the future, i.e. making small technological village with perks of nature.
 
 
 Is it incubator?
