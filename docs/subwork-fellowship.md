@@ -93,6 +93,15 @@ What will you get?
 ---
 For your time commitment, you have chance to asymmetrically change your life. It will be transformational experience both for participants, mentors and collaborators. It's will be diametrically different from casual virtual hackathons, weekend crypto hackathon or crypto conference. We disincentivize to do speed dating. Rather we encourage you do deep and long lasting relationships within your high signal peers. We will definitely try to choose right peers
 
+What is the capacity of this cohort?
+---
+Optimistically we would like to take 12-15 hackers, pessimistically at least 6 to open cohort. 
+Currently we expect on Fall seasson accomodation in Bled area will be radically cheaper and people will be coming to our space more often. Just through **summer 2023 we've hosted 60+ ppl**, yet let's see, location is natural attractor.
+
 I can't come to this cohort, will be there next?
 ---
 If our experimental will be considerably successfull and receive positive feedback enough to spread, we will happy to run another cohort either end of year or early next year
+
+Can I attend hackathon from your space?
+---
+Sure, that's option too. We are definitely there are few of them happening and if it's in your capacity to attend hackathon from our space with possible referring SubWork, that would be more than welcome!
