@@ -2,28 +2,30 @@
 
 We plan to nurture local community in Julian Alps. For minorities we would like help subsidize stay at our amazing place whenever you are building awesome open source project which will power infrastructure of the future. It doesn't matter if it's **hottest crypto primitive** or **recent LLM model** for next AI thing, we would happy to help you out. We offer coworking space in nature, next to Julian Alps to drive your developement, tranqulity of grind and get you best peers to deliver on market soon as possible. Along with care about your wellbeing, we believe you will deliver best of your ideas and execute on fastest pace you ever had. We will make athletic founder from you. You just need to bring your will to make it happen. Rest will be right setting of surrounding environment.
 
-Applicant
----
+![fellowship_sava](./pics/fellowship_sava.png)
+> writing this markdown at Sava river :D
 
-What we are looking for? Well, imagination is your destination as they sing.
-We definitely would need to have look at your Github, Twitter, Linkedin and Telegram, in that order. 
-Bonus points if you have Strava or Garmin account.
+## Applicant
+
+
+What we are looking for? Well, **imagination is your destination** as they sing.
+We definitely would need to have look at your _Github, Twitter, Linkedin and Telegram_, in that order. 
+Bonus points if you have _Strava or Garmin_ account.
 
 ### Why?
 
 We want to carefully cater right thriving hackers in our very first cohort to thrive and help us to test our first beta run. There might be dragons and we are learning too to set everything properly. It will be mostly organic process.
 
-We will be hanging around in our coworking space for 4 weeks, plus with program on sidelines. 
+We will be hanging around in **our coworking space for 4 weeks**, plus with program on sidelines. 
 Goal is that you will grow unique relationships from this fellowship, which will help you in your future endeavour.
 
-### History is not everything
+### your past track record is not everything
 
 Idea is great, execution matters more. 
 Having **toy stage idea is great** and you can forge greater idea, which will gradually become fundable startup idea during cohort.
 We are pretty inspired by buildspace on this and we believe grinders peer pressure would be great.
 
-Hot-topics to build on
----
+### Hot-topics to build on
 This is list of suggestion we might come to our mind, yet we encourage **you need to be passionate about your idea and even better is if you have something in your mind what you would like to see being build.** Not just build around it, because we suggest it might be thrilling. Remember, we are not running any fake contest nor prizes to motivate you. Real winners will be choosen by receiving ecosystem grants, angel tickets or employments. Take it more like bootcamp to sharp your skills and experience along the journey. 
 
 Non-exhaustive list of topis includes
@@ -41,13 +43,13 @@ Non-exhaustive list of topis includes
 
 Idea "toy" phase
 ---
-We prefer to host people who done at least few iterations closer to PoC of their project and have tangible demo. No worries, give it shot and get back t us, we believe you can be choosen if our capacity allows so!
+We prefer to **host people who done at least few iterations closer to PoC of their project and have tangible demo.** No worries, give it shot and get back to us, we believe you can be choosen if our capacity allows so!
 
 Want to apply?
 ---
 
 Hit us on our Telegram channel with following. 
-<In future it will be replaced with form.>
+< In future it will be replaced with form >
 
 Existing project in toy stage
 ---
@@ -70,6 +72,9 @@ Mentor should have experience in startups in their history, working within web3/
 
 You should share with us your Twitter, LinkedIn, Github and why you want to participate within our SubWork fellowship, i.e. what outcome do you see helping us.
 
+What are the start date of SubWork Fellowship #1?
+---
+We are thinking to start last week of September, no hard dates, probably around 30/9/2023.
 
 What is SubWork Fellowship?
 ---
@@ -85,3 +90,7 @@ No, we don' take any equity from your idea, yet we want you to succeed on global
 What will you get?
 ---
 For your time commitment, you have chance to asymmetrically change your life. It will be transformational experience both for participants, mentors and collaborators. It's will be diametrically different from casual virtual hackathons, weekend crypto hackathon or crypto conference. We disincentivize to do speed dating. Rather we encourage you do deep and long lasting relationships within your high signal peers. We will definitely try to choose right peers
+
+I can't come to this cohort, will be there next?
+---
+If our experimental will be considerably successfull and receive positive feedback enough to spread, we will happy to run another cohort either end of year or early next year
