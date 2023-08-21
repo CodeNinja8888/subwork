@@ -1,107 +1,104 @@
 # SubWork Fellowship
 
-We plan to nurture local community in Julian Alps. For minorities we would like help subsidize stay at our amazing place whenever you are building awesome open source project which will power infrastructure of the future. It doesn't matter if it's **hottest crypto primitive** or **recent LLM model** for next AI thing, we would happy to help you out. We offer coworking space in nature, next to Julian Alps to drive your developement, tranqulity of grind and get you best peers to deliver on market soon as possible. Along with care about your wellbeing, we believe you will deliver best of your ideas and execute on fastest pace you ever had. We will make athletic founder from you. You just need to bring your will to make it happen. Rest will be right setting of surrounding environment.
+In the heart of the Julian Alps, a unique concept is brought to life - The SubWork Fellowship. A haven for tech enthusiasts, this hacker collective aims to foster a thriving community of like-minded individuals who are passionate about shaping the future of technology. Whether your interest lies in the newest crypto protocols or the latest LLM models for AI, the SubWork Fellowship is the perfect place for you to bring your ideas to life.
 
 ![fellowship_sava](./pics/fellowship_sava.png)
 > writing this markdown at Sava river :D
 
-## Applicant
 
-
-What we are looking for? Well, **imagination is your destination** as they sing.
-We definitely would need to have look at your _Github, Twitter, Linkedin and Telegram_, in that order. 
-Bonus points if you have _Strava or Garmin_ account.
-
-### Why?
-
-We want to carefully cater right thriving hackers in our very first cohort to thrive and help us to test our first beta run. There might be dragons and we are learning too to set everything properly. It will be mostly organic process.
-
-We will be hanging around in **our coworking space for 4 weeks**, plus with program on sidelines. 
-Goal is that you will grow unique relationships from this fellowship, which will help you in your future endeavour.
-
-### your past track record is not everything
-
-Idea is great, execution matters more. 
-Having **toy stage idea is great** and you can forge greater idea, which will gradually become fundable startup idea during cohort.
-We are pretty inspired by buildspace on this and we believe grinders peer pressure would be great.
-
-### Hot-topics to build on
-This is list of suggestion we might come to our mind, yet we encourage **you need to be passionate about your idea and even better is if you have something in your mind what you would like to see being build.** Not just build around it, because we suggest it might be thrilling. Remember, we are not running any fake contest nor prizes to motivate you. Real winners will be choosen by receiving ecosystem grants, angel tickets or employments. Take it more like bootcamp to sharp your skills and experience along the journey. 
-
-Non-exhaustive list of topis includes
+Who Can Benefit from the SubWork Fellowship?
 ---
-- Wallets rely on Account Abstraction
+The SubWork Fellowship is not just for anyone. We are looking for individuals who have a burning desire to create, innovate, and disrupt. Your playground is as boundless as your imagination. Whether you're a seasoned developer with an established Github profile or a budding innovator with a promising Twitter presence, we would love to welcome you to our community.
+We definitely would need to have look at your _Github, Twitter, Linkedin and Telegram_.
+
+
+What's In It For You?
+---
+Our SubWork Fellowship is more than just a co-working space. We believe that a conducive environment can ignite creativity and accelerate innovation. That's why **we offer a four-week experience that encompasses not only work but also personal growth and community building**. We aim for you to form long-lasting relationships and valuable connections that can aid your future endeavors.
+
+
+Focus on Execution
+---
+While a great idea is the foundation of any project, its execution holds equal, if not more, importance. We encourage individuals with early-stage ideas to join us, as our collective can help refine these concepts into fundable startup ventures.
+
+
+Areas of Interest
+---
+We provide a nurturing environment for a plethora of tech fields. However, we encourage you to be passionate about your project. Here are some areas of interest that we think might excite you:
+
+- Account Abstraction-Based Wallets
 - ERC-6551
-- flavoured L2s, zk-X (X can be your creative use case)
-- onchain NFTs
-- dynamic NFTs
-- MUDs
-- autonomous-on-chain-games
-- hot mathematical proofs
-- blend of cryptoecon web3 and ai tooling
+- Layer 2 solutions with a twist (zk-X)
+- On-chain and dynamic NFTs
+- Autonomous Worlds and onchain games
+- Mathematical proofs
+- Intersection of web3 and AI tooling
 
 
-Idea "toy" phase
+Criteria for Selection
 ---
-We prefer to **host people who done at least few iterations closer to PoC of their project and have tangible demo.** No worries, give it shot and get back to us, we believe you can be choosen if our capacity allows so!
+We prefer individuals **who have a Proof of Concept (PoC) or a tangible demo of their project.** This gives us confidence in your commitment and passion for your project. However, don't let this deter you. If you believe in your idea, we encourage you to apply.
 
-Want to apply?
+How to Apply?
 ---
+To apply, reach out to us on our Telegram channel. We will soon replace this process with a form for a more streamlined approach.
 
-Hit us on our Telegram channel with following. 
-< In future it will be replaced with form >
-
-Existing project in toy stage
+For Projects in the Early Stages
 ---
+If your project is in its nascent stages, here's what we need from you:
+
 - Your Github/Gitlab project repository
 - Your Twitter handle
-- Your Linkedin 
-- Why we should choose you?
-- How we can help you to deliver your project?
-- What outcome do you expect from 4 week cohort at our place?
+- Your LinkedIn profile
+- Reasons why we should choose you
+- Ways we can assist to deliver your project
+- Expectations from our 4-week program
 
-
-What will you get?
+What Do We Offer?
 ---
-We will help you with technical strategies and go-to market strategies. Apart from giving space in our cowork for free, we can partially subsidize your stay in area. All depends from sponsorships we will get. We will try our best.
+Beyond an inspiring workspace, we provide technical and market-launch strategies. We can also subsidize your stay depending on the sponsorships we secure. Rest assured, we will make every effort to support you.
 
-Do you taking mentors too?
+
+Looking for Mentors Too!
 ---
-You should definitely be someone who is respected within community. This mean we will check your followership and look if we've got mutuals there. We can help cover some costs for staying here for week or two. 
-Mentor should have experience in startups in their history, working within web3/ai companies. Could be someone **who is doing angel investing**, **scout from VC fund**, definitely it should be someone who is inclusive in terms of technologies and use. We will check if you profile is highly ethical.
+If you're a respected figure in the tech community and have a background in web3/AI companies or **angel investing**, we'd love for you to join us as a mentor. We require your Twitter, LinkedIn, Github profiles, and a brief on why you'd like to participate in our SubWork Fellowship program.
+We can help cover some costs for staying here for week or two. 
 
-You should share with us your Twitter, LinkedIn, Github and why you want to participate within our SubWork fellowship, i.e. what outcome do you see helping us.
-
-What are the start date of SubWork Fellowship #1?
+Dates to Remember
 ---
-We are thinking to start last week of September, no hard dates, probably around 30/9/2023.
+We are planning to kick-start this enriching experience in the last week of September, around 30/9/2023.
 
-What is SubWork Fellowship?
+
+About the SubWork Fellowship Experience
 ---
-It's unique experience set in beautiful nature of Bled, located in SubWork. Where daily grind will happen and we will have few workshops going on daily basis preferably to chat, discuss and elaborate on disrupting topics. Weekly basis included with outdoor programme to foster relationships with some adventures, i.e. cold plunges, bathing in lakes, long-range hikes, ebike rides around local mountains to enjoy scenic views and all that activities you can do in surroundings.
-
-We will work on your wellbeing, healthy routines, delivery of code, iteration of idea you have and ways how you can be funded.
-
-We believe SubWork Fellowship will be social building block of more broader vision of SubWork for the future, i.e. making small technological village with perks of nature.
+Located in Bled, the SubWork offers a unique blend of work and leisure. We focus on your wellbeing, skill enhancement and provide guidance on acquiring funding. The SubWork Fellowship is not just a program; it's a stepping stone to a broader vision - building a tech village amidst nature.
+Weekly basis included with outdoor programme to foster relationships with some adventures, i.e. cold plunges, bathing in lakes, long-range hikes, ebike rides around local mountains to enjoy scenic views and all that activities you can do in surroundings.
 
 
-Is it incubator?
+Equity-Free Program
 ---
-No, we don' take any equity from your idea, yet we want you to succeed on global scale. We ultimately believe when we will be playing positive sum games and your success will give it back to community as we build long-term community with horizon 5+ years. You can have chance be star of this economical cycle.
+Unlike typical incubators, we don't take equity from your project. We believe in shared success and fostering a long-term community.
 
-What will you get?
----
-For your time commitment, you have chance to asymmetrically change your life. It will be transformational experience both for participants, mentors and collaborators. It's will be diametrically different from casual virtual hackathons, weekend crypto hackathon or crypto conference. We disincentivize to do speed dating. Rather we encourage you do deep and long lasting relationships within your high signal peers. We will definitely try to choose right peers
 
-What is the capacity of this cohort?
+What Can You Expect?
 ---
-Optimistically we would like to take 12-15 hackers, pessimistically at least 6 to open cohort. 
-Currently we expect on Fall seasson accomodation in Bled area will be radically cheaper and people will be coming to our space more often. Just through **summer 2023 we've hosted 60+ ppl**, yet let's see, location is natural attractor.
+The SubWork Fellowship experience is unique and transformational, which will asymmetrically change your life. It's more than just a hacker house. We aim to build deep and lasting relationships among our community members.
 
-I can't come to this cohort, will be there next?
----
-If our experimental will be considerably successfull and receive positive feedback enough to spread, we will happy to run another cohort either end of year or early next year
 
-Can I attend hackathon from your space?
+Capacity Limitations
 ---
-Sure, that's option too. We are definitely there are few of them happening and if it's in your capacity to attend hackathon from our space with possible referring SubWork, that would be more than welcome!
+We aim to accommodate 12-15 individuals for the first cohort, with a minimum of 6. We assure you, our location is a natural magnet, attracting tech enthusiasts from around the world.
+
+
+Future Cohorts
+---
+Based on the success and feedback of our first cohort, we aim to host more cohorts in the future.
+
+
+Attending Hackathons
+---
+
+Yes, you can attend virtual hackathons from our space. If you can represent the SubWork Fellowship while doing so, we would greatly appreciate it!
+
+
+With the core concept of web3, the SubWork is not just a co-working space; it's a community of futurists, a think tank for disruptive ideas, and a launchpad for innovative projects. Come, let's shape the future of technology together in the heart of nature.
