@@ -23,8 +23,9 @@ I'ts popular beach [in the middle of lake Bohinj and dive site too](https://h2og
 
 ![bohinj_naklove_glave](pics/bohinj_naklove_glave.png)
 
-Our favourite provider for standup paddles are [girls from Super Duper, give them call 🤙 +38651662406](tel:+38651662406).
-Below is their beautiful infographics.
+Our favourite provider for standup paddles are [girls from Super Duper, give them call 🤙 +38651662406](tel:+38651662406) or [+386(0)41
+554649](+38641554649). One of them always works! 
+Below are their beautiful infographics.
 
 Suggested Tours
 ---
