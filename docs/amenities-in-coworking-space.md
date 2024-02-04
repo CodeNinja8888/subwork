@@ -32,6 +32,10 @@ premium objects in space
 ### [specialty coffee equipment](./specialty-coffee-in-bled.md)
   - [we have variety of specialty coffee equipment at SubWork](./specialty-coffee-in-bled.md) and if you are experienced home barista, you will love this place
 
+![subwork_colddrip](pics/subwork_colddrip.jpg)
+> picture of good looking goatstory dripper in sunlight 
+
+
 ### standing desk
   - we don't like back-pain
 
@@ -47,23 +51,23 @@ premium objects in space
   - [Razer Kiyo Pro w/ 1080p@60FPS and wide angle](https://www.razer.com/gb-en/streaming-cameras/razer-kiyo-pro)
   - ring lights for better light
 
-
 ### **basic gym equipment for your morning workout**
+  - We feel sporty everyday. To keep up your fast development pace, we will help you to build athletic mentality while staying at SubWork.
   - dumbbells - two times 5kg & two times 10kg
   - kettlebells - 6kg, 12kg and 20kg
   - [multi-functional workout bench - TriaTrainer](https://www.nohrd.com/us/triatrainer/) to train your abdominal muscles, your back and glute.
-  - [water rower](https://www.nohrd.com/us/waterrower-performance/) - with precise rowing data
+  - [WaterRower Rowing Machine](https://www.nohrd.com/us/waterrower-performance/) - water rower with precise rowing data using SmartRow
+  -  pull-up bar 
   - [detailed list of gym equipment in Bled, SubWork](./basic-gym-equipment-in-coworking-space-subwork.md)
+
+![subwork_rowing](pics/subwork_rowing.jpg)
 
 ### shower
   - are you feeling sporty and do you want finish your morning workout in SubWork? We've got shower in space for you!
   - shower thoughts before you enter into deep work focus window?
   
-![subwork_colddrip](pics/subwork_colddrip.jpg)
-> picture of good looking goatstory dripper in sunlight 
+### community social events on regular basis
 
-community social events on regular basis
----
 - we are organizing events on infrequent basis
 - we reccomend you to [subscribe to our SubWork Meetup group](https://www.meetup.com/subwork/) to be informed ahead.
 - 📖 [learn more about events](./events-in-subwork.md)
@@ -82,18 +86,7 @@ community social events on regular basis
 ![event_polkadot_miniconf](pics/event_polkadot_miniconf.png)
 > polkadot mini conference at bled
 
-micro gym in coworking space
----
-
-we feel sporty everyday and to keep up our development pace fast. We will help to build athletic mentality.
-- pull-up bar 
-- [WaterRower Rowing Machine](https://www.nohrd.com/us/waterrower/)
-- [Abdominal Trainer, Back Extension Bench and Weight Bench](https://www.nohrd.com/us/triatrainer/)
-
-![subwork_rowing](pics/subwork_rowing.jpg)
-
-flexible
----
+### flexible
 
 - on-site support 
   - your code doesn't build? We have experts in Rust, Typescript, Vue, Substrate, Solidity
@@ -107,10 +100,7 @@ flexible
 ![espresso_tonic](pics/espresso_tonic.png)
 > stash of bikes 
 
-drinks 
----
-
-
+### drinks 
 
 > picture of cold brew 
 > picture of very cold club mate, imagine.

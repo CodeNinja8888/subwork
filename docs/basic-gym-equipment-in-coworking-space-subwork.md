@@ -18,3 +18,4 @@ List of gym equipment
 - yoga mat
 - resistance bands
 - jump rope
+- pull-up bar
