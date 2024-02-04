@@ -67,7 +67,7 @@ const members = [
     ]
   },
   {
-    avatar: './pics/member_vito.jpeg',
+    avatar: 'https://subwork.xyz/member_vito.jpeg',
     name: 'vito',
     title: 'trading stocks',
     links: [
