@@ -74,21 +74,21 @@ However we love untracable cash, we don't hold it in space and we can't give you
 
 invoicing
 ---
-In terms of invoicing we can issue you invoice on our Slovenian company and you can put it as expense in your accouting. This is only available for flex desk, fix desk and meeting rooms from up 3h.
+In terms of invoicing we can issue you invoice on our Slovenian company and you can put it as expense in your accouting. This is only available for fix desk and meeting rooms from up 6h.
 
-pricing tl;dr
+pricing for SubWork coworking passes
 ---
 
-| Tier | Capacity | Unit price € | 
-| --- | --- | --- | 
-| First Try | 20 | Google Maps & Coworker Review  
-| Daypass | 20 | 20 
-| Weekpass | 20 | 70 
-| Bi-week pass | 20 | 120 
-| Flex Desk | 6 | 200 
-| Fix Desk | 4 | 300 
-| Meeting Room Kusama | 1 |  50/h 
-| Meeting Room Polkadot | 1 | 50/h
-| Rent Venue day | 1 | 500
-| Rent Venue evening | 1 | 300/3h
-| Private Office | 1 | 1200/mo
+| Tier | Unit price € | 
+| --- | --- | 
+| First Try | Google Maps & Coworker Review  
+| Daypass | 20 
+| Weekpass | 70 
+| Bi-week pass | 120 
+| Flex Desk | 200 
+| Fix Desk | 300 
+| Meeting Room Kusama |  50/h 
+| Meeting Room Polkadot | 50/h
+| Rent Venue day | 500
+| Rent Venue evening | 300/3h
+| Private Office | 1200/mo

@@ -1,4 +1,4 @@
-# Coliving in Bled
+# Coliving in Bled, near SubWork coworking space
 
 ![coliving_bled](pics/coliving_bled.png)
 

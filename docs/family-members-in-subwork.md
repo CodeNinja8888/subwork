@@ -26,7 +26,17 @@ const members = [
     title: 'co-founder KodaDot',
     links: [
       { icon: 'github', link: 'https://github.com/yangwao' },
-      { icon: 'twitter', link: 'https://twitter.com/yangwao' }
+      { icon: 'twitter', link: 'https://twitter.com/yangwao' },
+      { icon: 'linkedin', link: 'https://linkedin.com/in/mnemcek' }
+    ]
+  },
+  {
+    avatar: 'https://www.github.com/JustLuuuu.png',  
+    name: 'Linda',
+    title: 'artists relationships at KodaDot',
+    links: [
+      { icon: 'github', link: 'https://github.com/JustLuuuu' },
+      { icon: 'twitter', link: 'https://twitter.com/Just_Luuuu' }
     ]
   },
   {
@@ -57,7 +67,7 @@ const members = [
     ]
   },
   {
-    avatar: 'https://media.licdn.com/dms/image/C5603AQF8i6QJl65uPQ/profile-displayphoto-shrink_200_200/0/1552414176327?e=1694649600&v=beta&t=wPjLAWbtC9ZXWFPKMo4gZ1MsNLalKG-p6R1r_rnNQBU',
+    avatar: './pics/member_vito.jpeg',
     name: 'vito',
     title: 'trading stocks',
     links: [

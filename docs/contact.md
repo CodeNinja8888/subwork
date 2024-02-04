@@ -23,7 +23,8 @@ head:
 Reach out to SubWork for your visit 🤙
 ---
 - Are you curious? Come to ask a questions!
-- [**Telegram - SubWork Bled**](https://t.me/+VoZsr7MEds84ZjQ0)
+- [**Telegram - SubWork Bled**](https://t.me/+VoZsr7MEds84ZjQ0) 
+  - join over 200 members in our group chat
 
 📥 Follow & Subscribe
 ---

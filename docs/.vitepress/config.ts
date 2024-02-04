@@ -126,6 +126,7 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'amenities', link: '/amenities-in-coworking-space' },
+          { text: 'book coworking space', link: '/book-coworking-subwork'},
           { text: 'company retreat', link: '/company-retreat' },
           { text: 'family members', link: '/family-members-in-subwork' },
           { text: 'meeting rooms', link: '/book-meeting-room-bled' },
@@ -136,9 +137,9 @@ export default defineConfig({
         text: 'accommodation',
         collapsed: true,
         items: [
-          { text: 'location of SubWork', link: '/location-of-subwork' },
           { text: 'accomodation', link: '/hotels-hostels-in-bled' },
           { text: 'coliving in bled', link: '/coliving-in-bled' },
+          { text: 'location of SubWork', link: '/location-of-subwork' },
           { text: 'long term stay in bled', link: '/long-term-stay-in-bled' },
         ]
       },
@@ -146,9 +147,9 @@ export default defineConfig({
         text: 'transportation',
         collapsed: true,
         items: [
+          { text: 'coming by car', link: '/coming-by-car-to-subwork-bled' },
           { text: 'location of SubWork', link: '/location-of-subwork' },
           { text: 'transportation', link: '/transportation-to-subwork-bled-slovenia' },
-          { text: 'coming by car', link: '/coming-by-car-to-subwork-bled' },
         ]
       },
       {
@@ -156,8 +157,8 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'first time in Subwork', link: '/first-time-in-subwork' },
-          { text: 'governance', link: '/rules-for-coworkers'},
           { text: 'booking desk and meeting room', link: '/booking-desk-and-meeting-room-in-subwork' },
+          { text: 'governance', link: '/rules-for-coworkers'},
         ]
       },
       {
@@ -167,9 +168,10 @@ export default defineConfig({
           { text: 'contribute', link: '/contribute-and-improve-subwork' },
           { text: 'events', link: '/events-in-subwork' },
           { text: 'fellowship', link: '/subwork-fellowship' },
-          { text: 'triathlon', link: '/training-for-triathlon' },
-          { text: 'specialty coffee gear', link: '/specialty-coffee-in-bled'},
+          { text: 'gym equipment', link: '/basic-gym-equipment-in-coworking-space-subwork'},
           { text: 'partner with SubWork', link: '/partner-with-coworking-space-subwork'},
+          { text: 'specialty coffee gear', link: '/specialty-coffee-in-bled'},
+          { text: 'triathlon', link: '/training-for-triathlon' },
           { text: 'writings', link: '/writings-about-subwork' },
         ]
       }
