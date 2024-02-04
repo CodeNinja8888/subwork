@@ -20,9 +20,9 @@ Held retreats on Bled
 
 ![bovec](./pics/bovec.png)
 
-Conference places
+Conference venues in Bled
 ---
-- Currently there are few congress centers you can book in Bled and surroundings
+- Currently there are [15+ congress venues you can directly book in Bled](https://www.bled.si/en/meetings/meeting-planning/venues/)
 - [Rikli Balance Hotel - 350+, 8 conference halls, various setups](https://www.bled.si/de/meetings/meeting-planning/venues/2020090714580355/rikli-balance-hotel-s/)
 - [Why to choose Bled?](https://www.bled.si/de/meetings/)
 - [References for international events in Bled](https://www.bled.si/de/meetings/why-bled/references/)
